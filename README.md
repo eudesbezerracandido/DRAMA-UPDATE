@@ -39,3 +39,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em busca da filha desaparecida, uma mulher encontra uma rede de apoio e conhece outras mulheres que tiveram suas vidas destruídas pela violência.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] EXTRAORDINÁRIO- WONDER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IM75MBQZWTHKHEJZPZ2TMQUVDJQUUKS4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eB1vhoNrN2oR82fxsHp7vvLgMhz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Auggie Pullman é um garoto que nasceu com uma deformação facial, o que fez com que passasse por 27 cirurgias plásticas. Aos 10 anos, ele pela primeira vez frequentará uma escola regular, como qualquer outra criança. Lá, precisa lidar com a sensação constante de ser sempre observado e avaliado por todos àsua volta.</info>
+</item>

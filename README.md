@@ -25,9 +25,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] A QUEDA DO IMPÉRIO ROMANO 1964 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bfc0debfda3c40aeb827b3080ef96c2a0621793$nome=A QUEDA DO IMPÉRIO ROMANO 1964</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a66728b4583f221ab74dd221f2f5067aae05022$nome=A QUEDA DO IMPÉRIO ROMANO 1964 LEG</link>
+<title>[COLOR silver][B] A QUEDA DO IMPÉRIO ROMANO 1964 LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a66728b4583f221ab74dd221f2f5067aae05022</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7bLJSoBxrqgPHJ8uRIwrjO1Crz5.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No auge da expansão geográfica do império romano, o general Lívio (Stephen Boyd) comanda a nova política do imperador Marco Aurélio (Alec Guinness), que quer a pacificação de fronteiras e a adoção para os povos conquistados uma certa autonomia. Mas Marco Aurélio acaba envenenado por Commodus (Christopher Plummer), filho ilegítimo que assume o trono e mergulha Roma no caos político e administrativo, o que dá origem à queda do Império Romano.</info>

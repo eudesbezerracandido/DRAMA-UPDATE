@@ -31,3 +31,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No auge da expansão geográfica do império romano, o general Lívio (Stephen Boyd) comanda a nova política do imperador Marco Aurélio (Alec Guinness), que quer a pacificação de fronteiras e a adoção para os povos conquistados uma certa autonomia. Mas Marco Aurélio acaba envenenado por Commodus (Christopher Plummer), filho ilegítimo que assume o trono e mergulha Roma no caos político e administrativo, o que dá origem à queda do Império Romano.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] RUIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b9694b7b92177d6bbe8e7d6f34bfc6edd13872f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pMyNl3NlZx1CXgbrCuSiWkWdp9D.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em busca da filha desaparecida, uma mulher encontra uma rede de apoio e conhece outras mulheres que tiveram suas vidas destruídas pela violência.</info>
+</item>

@@ -47,3 +47,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Auggie Pullman é um garoto que nasceu com uma deformação facial, o que fez com que passasse por 27 cirurgias plásticas. Aos 10 anos, ele pela primeira vez frequentará uma escola regular, como qualquer outra criança. Lá, precisa lidar com a sensação constante de ser sempre observado e avaliado por todos àsua volta.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] AMOR ALÉM DO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e6dc4ec119caa93fb1413b5967e204ca222be7f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qb2esYfCjkz2RhXDQCPz1evsQfY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um futuro próximo, um político recém-saído de uma derrota eleitoral foge para a casa de verão de sua família no lago. Suas férias são interrompidas pelo aparecimento de seu primeiro amor, que acaba de voltar de uma viagem espacial de 20 anos e não envelheceu um dia.</info>
+</item>

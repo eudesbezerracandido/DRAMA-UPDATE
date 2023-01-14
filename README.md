@@ -55,3 +55,19 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em um futuro próximo, um político recém-saído de uma derrota eleitoral foge para a casa de verão de sua família no lago. Suas férias são interrompidas pelo aparecimento de seu primeiro amor, que acaba de voltar de uma viagem espacial de 20 anos e não envelheceu um dia.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] PROCURA-SE GONKER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d31fd1785b62ab57cf5edb1ca423445c7260b8b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ziAL5224J9QHA0S0exarpkz4eUN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando o amado cãozinho de uma família se perde na floresta, seus donos partem em uma incrível jornada para salvá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MINDCAGE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UWDZDFTV76P2V6Z27WTHTPCCUJRSPE6O</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Detectives Jake Doyle (Martin Lawrence) and Mary Kelly (Melissa Roxburgh) seek the help of an incarcerated serial killer named The Artist (John Malkovich) when a copycat killer strikes. While Mary searches for clues in The Artist’s brilliant but horrifically twisted psyche, she and Jake are lured into a diabolical game of cat and mouse, racing against time to stay one step ahead of The Artist and his copycat.</info>
+</item>

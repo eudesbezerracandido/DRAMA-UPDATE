@@ -1,5 +1,14 @@
 # DRAMA-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] TENTÁCULOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2495d7efd8f1d9889fd10308e90c4fbba2c55c03</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rRfcH0jg9X8czKJhXCnny45NSWt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após se conhecerem, o casal Tara e Sam se apaixonam completamente um pelo outro, engatando num romance e enlaçando suas vidas — até que sua intimidade se transforma em algo aterrorizante.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] BROAD PEAK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa703328813bdb9d67b69597e56af15d8bc992e2</link>

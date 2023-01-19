@@ -1,6 +1,16 @@
 # DRAMA-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] KOMPROMAT - Ó DOSSIÊ RUSSO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:658095ed806b94abd97eb9f8ee963f92c59b8bb6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yakB8fDVhqmqiocjILPVh1aBze2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A fuga espetacular de um diplomata francês da Sibéria. Vítima de uma trama orquestrada pelo FSB, o intelectual terá que se transformar em homem de ação para escapar de seu destino.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] TENTÁCULOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2495d7efd8f1d9889fd10308e90c4fbba2c55c03</link>

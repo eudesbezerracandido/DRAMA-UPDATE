@@ -1,7 +1,12 @@
 # DRAMA-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] SIGNIFICANT OTHER - LEGENDADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C0ECC85119E3183856DDE17AB7EB974DFBE1C33</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/liGvBdUsyOfiTJjNCD55JJfISzb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Segue um jovem casal que faz uma viagem remota de mochila pelo Noroeste do Pacífico e enfrenta eventos sinistros que os levam a perceber que tudo sobre o lugar não é como parece.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] KOMPROMAT - Ó DOSSIÊ RUSSO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] NARVIK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:232HQOSIBHWQUH7WRQQ7EIMKUG42LLNK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lutKUOeedR5TZdfuMbD4fcAy64b.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Abril de 1940. Os olhos do mundo estão em Narvik, uma pequena cidade no norte da Noruega, fonte do minério de ferro necessário para o maquinário da guerra de Hiter. Após dois meses de uma feroz guerra no inverno, Hitler recebe sua primeira derrota.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRANSFUSSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSZQUG3JZPXMBD5KGPPWEUOWQWAVR3ZB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g5I7vkAAhW7OBJH0VbSONZSpVDy.jpg</thumbnail>

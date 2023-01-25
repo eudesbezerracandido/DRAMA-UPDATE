@@ -1,5 +1,15 @@
 # DRAMA-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] TRANSFUSSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSZQUG3JZPXMBD5KGPPWEUOWQWAVR3ZB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g5I7vkAAhW7OBJH0VbSONZSpVDy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ex-agente das Forças Especiais entrou no submundo do crime para evitar que seu único filho fosse tirado dele. Transfusão conta a história de um pai e seu filho tentando se reconectar após uma perda devastadora. O filho, atolado em culpa por uma escolha que nunca fez, e um pai sofrendo de TEPT e sem identidade após se aposentar do Regimento do Serviço Aéreo Especial do Exército Australiano. Em sua última chance com a lei, o pai é jogado no submundo do crime por um ex-irmão do SAS para impedir que seu único filho seja tirado dele.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SIGNIFICANT OTHER - LEGENDADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C0ECC85119E3183856DDE17AB7EB974DFBE1C33</link>

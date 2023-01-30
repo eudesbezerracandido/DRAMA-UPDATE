@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] RAÇA E REDENÇÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00f6470994e7baedeeddb2d0414e09ee786ca3ed</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2SZw4eBmDRDGjgG7ACxBdiiKBpO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ativista de direitos civis Ann Atwater (Taraji P. Henson), bate de frente com C.P. Ellis (Sam Rockwell), líder exaltado do Ku Klux Klan em Durham, na Carolina do Norte, de1971, sobre a questão de integração nas escolas.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] NARVIK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

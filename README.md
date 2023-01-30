@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] TRAIDORA AMERICANA-O JULGAMENTO DE AXIS SALLY  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f88365fe1b7929b0b277b37d5d6b0894b5d4f49b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fzP5J0fapBMm4WqOeevAUndql1B.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Baseado na história real de uma mulher que inconscientemente se tornou a voz da propaganda alemã, direcionada às tropas americanas durante a Segunda Guerra Mundial.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] RAÇA E REDENÇÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00f6470994e7baedeeddb2d0414e09ee786ca3ed</link>

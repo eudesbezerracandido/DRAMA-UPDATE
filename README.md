@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] INFIESTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c7c34bca32b2561af8d0757f0c57ca99b90e5ac</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/83o0IzCimc3HJLrXTvrq08h4oMf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em meio aos desafios da pandemia do coronavírus, uma dupla de detetives vai atrás dos responsáveis por uma série de acontecimentos sinistros.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] TRAIDORA AMERICANA-O JULGAMENTO DE AXIS SALLY  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f88365fe1b7929b0b277b37d5d6b0894b5d4f49b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fzP5J0fapBMm4WqOeevAUndql1B.jpg</thumbnail>

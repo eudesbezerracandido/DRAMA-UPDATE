@@ -1,5 +1,14 @@
 # DRAMA-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] ASSASSINO AMERICANO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc097c7eb76286e8356acfbdd2d8e31a0b2fd1e4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sfCmTkVVtwoW4yNu1Cs4ZDtCTa5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado na história real de Jason Derek Brown. Um vigarista carismático que financia seu estilo de vida luxuoso por meio de uma série de golpes. Quando seus fundos acabam e seu passado o alcança, ele trama seu esquema mais elaborado e, no processo, se torna o mais improvável - e elusivo - fugitivo do FBI.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] ARMAGEDDON TIME  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c74fec21d4ef93278fa1a50012918f9b36c75fa6</link>

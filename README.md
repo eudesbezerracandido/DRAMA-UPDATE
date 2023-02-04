@@ -1,6 +1,12 @@
 # DRAMA-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] ARMAGEDDON TIME  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c74fec21d4ef93278fa1a50012918f9b36c75fa6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Baseado nas memórias de infância do diretor, como estudante na Escola Kew-Forest, no Queens. Uma grande história de amadurecimento que explora amizade e lealdade, no contexto de uma América do Norte pronta para eleger Ronald Reagan como presidente.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] INFIESTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

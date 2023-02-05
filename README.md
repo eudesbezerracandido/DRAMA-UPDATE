@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] Sr. NINGUÉM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:319d5e978c1e9354ad362cfaae1b25df76b63367</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rHi1zLK0bnbrlB42B5xqD1oM2C7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Marido de Elise (Sarah Polley) e pai de três filhos, Nemo Nobody (Jared Leto) leva uma vida comum ao lado de sua família. Ele acorda no ano de 2092 e agora, com 118 anos, é o último mortal em um planeta de seres humanos imortais. As suas preocupações, contudo, envolvem outras questões, como o que aconteceu durante a passagem de tempo e se viveu sua vida como gostaria.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ASSASSINO AMERICANO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc097c7eb76286e8356acfbdd2d8e31a0b2fd1e4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sfCmTkVVtwoW4yNu1Cs4ZDtCTa5.jpg</thumbnail>

@@ -1,6 +1,12 @@
 # DRAMA-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] STROMBOLI-EM BUSCA DE MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bb1d1efdd795094d1114a4961d18c65e9e33d2a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iiPPvhBHxqa1vk7AEmFn5zDbhJF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher atormentada por seus problemas familiares sai de férias, mas acaba indo parar em um intenso retiro de autoajuda.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] O ÓDIO QUE VOCÊ SEMEIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

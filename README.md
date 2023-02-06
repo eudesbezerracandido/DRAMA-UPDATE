@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] O ÓDIO QUE VOCÊ SEMEIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D46B3D3B5187C35E8691AE8DF5B92A9A217D776</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e8ZaQNr1bb3iOg6NRWnkKKmbKu1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Starr Carter (Amandla Stenberg) é uma adolescente negra de dezesseis anos que presencia o assassinato de Khalil, seu melhor amigo, por um policial branco. Ela é forçada a testemunhar no tribunal por ser a única pessoa presente na cena do crime. Mesmo sofrendo uma série de chantagens, ela está disposta a dizer a verdade pela honra de seu amigo, custe o que custar.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] Sr. NINGUÉM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:319d5e978c1e9354ad362cfaae1b25df76b63367</link>

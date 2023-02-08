@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O IMPÉRIO DA LUZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2a3dab55b6c24ef2733519afd58f300269ad696</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/89NpZNqtFWBWQ3vrtqAtmenOE9V.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Império da Luz é uma história de amor ambientada em um belo cinema antigo na costa sul da Inglaterra na década de 1980. Um filme sobre a conexão humana e a magia do cinema. Seguimos Hilary (Olivia Colman), uma gerente de cinema deprimida, que trabalha no cinema Império (Empire) enquanto no plano de fundo há a recessão britânica de 1981, causando desemprego e racismo gratuito ao longo do país. Apesar de tudo, ela tem um emprego simples, vender ingressos, checar os ingressos, limpar as salas e etc. Ao seu lado, outros empregados: um gerente mal-humorado e pomposo, Sr. Ellis (Colin Firth), o dedicado projecionista Norman (Toby Jones) e os assistentes Neil (Tom Brooke) e Janine (Hannah Onslow). Mas Hilary cada vez mais entra em um profundo estado de solidão e tristeza, mesmo em tratamento. Mas então o Império contrata um novo vendedor de ingressos, Stephen (Micheal Ward), um jovem negro que tem uma conexão instantânea com Hilary. Esta, é a história deles.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O SUPLENTE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8125d6157332c5c3be8de2dfe512d2cb7547723</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9KJjH8SCj0Wj94EHbayja4WguhH.jpg</thumbnail>

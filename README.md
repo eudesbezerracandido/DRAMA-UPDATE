@@ -1,5 +1,22 @@
 # DRAMA-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] O SUPLENTE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8125d6157332c5c3be8de2dfe512d2cb7547723</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9KJjH8SCj0Wj94EHbayja4WguhH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Suplente segue a história de Lucio (Juan Minujín), um professor de letras na prestigiada Universidade de Buenos Aires. A vida acadêmica, porém, não o motiva mais: ele quer levar seus conhecimentos onde possa fazer a diferença, para ensinar literatura em um bairro da periferia de uma área marginal dos subúrbios de Buenos Aires. Lúcio deve usar toda a sua engenhosidade para levar as aulas adiante e, ao mesmo tempo, ultrapassar todos os tipos de limites morais e preconceitos sociais para tentar salvar Dylan, seu aluno favorito, que é perseguido por uma quadrilha de traficantes em busca de vingança.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA OBSESSÃO DESCONHECIDA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f149f2e127127e28a30c1348d0b8c80ea0177626</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wLFnV0w9aQ4c507owJwMSWStsMD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem casal faz uma viagem remota de mochila pelo noroeste do Pacífico e enfrenta eventos sinistros que os levam a perceber que tudo sobre o lugar não é o que parece.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] STROMBOLI-EM BUSCA DE MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bb1d1efdd795094d1114a4961d18c65e9e33d2a</link>

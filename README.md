@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TEMPESTADE MORTAL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01e958ee7bcf345164585de4d245c0db38bc29cd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mrWr3QWy2C4oZUzjlhFtpbV6oX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>https://www.themoviedb.org/t/p/original/mrWr3QWy2C4oZUzjlhFtpbV6oX.jpg</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HOTEL COPPELIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f98e2d7d47cbd81eacacde5b034ff0e910d0584</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/f0Cgaivi2vsZxDoqfAlI76xgpdt.jpg</thumbnail>

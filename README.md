@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] OBSERVADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9236285452ab119212f0d35f368ca28998f3e39</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/grEpsXD8Mwj5CGn5iWzDCNqZm2D.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>ulia abandonou a carreira de atriz para ir com o marido para um novo país. Ele conseguiu um emprego no país de onde veio. Indo atrás do marido, Julia acaba por se sentir deslocada e frequentemente sozinho, isso até que uma noite ela vê pela janela uma estranha figura no prédio a frente do dela. Ela pega a figura também olhando de volta a ela. Ela ignora. Em outro dia ela vai a um cinema local para assistir a um filme, mas o sentimento de estar sendo vigiada aumenta e começa a ter certeza que está sendo seguida por alguém.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O IMPÉRIO DA LUZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2a3dab55b6c24ef2733519afd58f300269ad696</link>

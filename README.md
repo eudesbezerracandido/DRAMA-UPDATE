@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] REI DO RINGUE-A HISTÓRIA DE JEM BELCHER  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7f5b799c68a5116f3462095fde76ae2872f442e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vi6VoqcsfmrwD0uXzyxXRsjcwU5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na virada do século 19, o pugilismo era o esporte dos reis e um jovem boxeador talentoso lutou para se tornar campeão da Inglaterra.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TEMPESTADE MORTAL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01e958ee7bcf345164585de4d245c0db38bc29cd</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mrWr3QWy2C4oZUzjlhFtpbV6oX.jpg</thumbnail>

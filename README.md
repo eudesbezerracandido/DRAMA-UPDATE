@@ -50,7 +50,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] UMA OBSESSÃO DESCONHECIDA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] UMA OBSESSÃO DESCONHECIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f149f2e127127e28a30c1348d0b8c80ea0177626</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wLFnV0w9aQ4c507owJwMSWStsMD.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

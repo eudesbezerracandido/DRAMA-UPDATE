@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] UM HOMEM DE SORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2CCA1F622A0DC9D30A39E190087918955944FB85</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f1Fc5IPLbOsGidnudNpL2RTVoKm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em meio a uma batalha em plena Guerra do Iraque, o fuzileiro Logan Thibault (Zac Efron) encontra no chão a foto de uma mulher desconhecida. Ele a guarda e passa a cuidá-la como se fosse um talismã, prometendo que, caso sobreviva à guerra, irá encontrá-la. Meses depois, ele retorna aos Estados Unidos e passa a pesquisar onde ela poderia morar a partir de pistas dadas pela própria foto. Ele a encontra em um canil, onde trabalha juntamente com a avó (Blythe Danner) e vive com o filho pequeno (Riley Thomas Stewart). Logan passa a também trabalhar no canil, sem revelar o verdadeiro motivo pelo qual chegou até ele.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] REI DO RINGUE-A HISTÓRIA DE JEM BELCHER  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7f5b799c68a5116f3462095fde76ae2872f442e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vi6VoqcsfmrwD0uXzyxXRsjcwU5.jpg</thumbnail>

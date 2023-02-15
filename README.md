@@ -1,6 +1,17 @@
 # DRAMA-UPDATE
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] UM AMOR PARA DUAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add6827e87c929f43a456523a76a09824c8015ca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uche e Toyin são melhores amigas. Mas quando as duas se apaixonam pelo mesmo homem e recebem uma notícia difícil, sua lealdade é posta à prova.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM HOMEM DE SORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2CCA1F622A0DC9D30A39E190087918955944FB85</link>

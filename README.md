@@ -1,8 +1,13 @@
 # DRAMA-UPDATE
 
 
-
-
+<item>
+<title>[COLOR silver][B] INDECÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e55caef792f0f4df781b7bab20f082d24b35d6e3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/onnS3G7R4WpdkhuwpQx6Pbgt2zY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de serem pegos fraudando o exame final, dois jovens estudantes tornam-se presas de seu professor.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] UM AMOR PARA DUAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

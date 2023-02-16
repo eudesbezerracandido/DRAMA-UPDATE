@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] ORAÇÕES PARA BOBBY   [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/bob_20230216/ORA%C3%87%C3%95ES%20PARA%20BOBBY.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ryaJFI5adEgBB4H2ZuIgJCwa3ev.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zqyMEKsuMmCaGvkcwxodMbOCppR.jpg</fanart>
+<info>Este é um filme baseado na história verídica de um jovem homossexual, que aos 20 anos suicida-se. A sua mãe, Mary Griffith, sabedora da sexualidade do filho acredita "curar" o filho com base na religião e terapias, para quatro anos depois (1979) Bobby lançar-se de uma ponte.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PLANO  A [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DEEFC261C312DB7CED1241D787A1E6E38E4944EF</link>

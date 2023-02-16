@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NOTRE DAME EM CHAMAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5599d5285d21e6b47b06314922ec5c4c92604c80</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nM1qbs9vJRAL0PNT5J8s6tlqywF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um relato do dia em que a catedral mais famosa do mundo pegou fogo. Combinando cenas reais e ficção, o filme mostra o trabalho árduo dos bombeiros e envolvidos em salvar o monumento cultural e religioso de Notre-Dame, em Paris.</info>
+</item>
+
+
+<item>
 <title>[COLOR silver][B] PLANO  A [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DEEFC261C312DB7CED1241D787A1E6E38E4944EF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bjEvnE8eQb7qrRDQBy927VbfuHD.jpg</thumbnail>

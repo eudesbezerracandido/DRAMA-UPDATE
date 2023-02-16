@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] PLANO  A [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DEEFC261C312DB7CED1241D787A1E6E38E4944EF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bjEvnE8eQb7qrRDQBy927VbfuHD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1945, um grupo de sobreviventes judeus do Holocausto planejou envenenar o sistema de água na Alemanha. É a história de uma perigosa e ousada operação secreta chamada Plano A.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] INDECÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

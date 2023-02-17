@@ -1,7 +1,12 @@
 # DRAMA-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] ILHA DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8210169fb2133a64e6033c3059ee8eaac7e02df7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3BvZISSwBqEbBBBCODygSFvSYiW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Carly é uma escritora de crimes reais, ela e seu marido, Kevin, tiram férias em uma mansão histórica em Crawford Island. Kevin acha que será uma chance para eles se reconectarem, mas Carly planeja pesquisar o intrigante assassinato não resolvido de Diana Crawford.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SHAPER-UMA VIDA DE TRAPAÇAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

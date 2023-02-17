@@ -1,6 +1,16 @@
 # DRAMA-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] SHAPER-UMA VIDA DE TRAPAÇAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba4cb9e93af29a0ab8ac01956ee3fc81f5b53bd4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ninguém é quem parece ser neste suspense neo-noir, na cidade de Nova York, de manipulações cruéis e jogos de poder de alto risco.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OS FABELMANS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IVGGJYV4A2YFG3AVZADS7PZZH2QJBIQP</link>

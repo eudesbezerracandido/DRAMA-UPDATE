@@ -1,8 +1,21 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] OS FABELMANS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IVGGJYV4A2YFG3AVZADS7PZZH2QJBIQP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/BWHoAAcKnGtowRXju2c2RBrT0m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O filme de Steven Spielberg é baseado nas memórias da infância do próprio cineasta, mais especificamente em um garoto vivendo no Arizona. O jovem Sammy Fabelman, se apaixona por filmes depois que seus pais o levam para ver O Maior Espetáculo da Terra/The Greatest Show on Earth, do lendário diretor Cecil B. DeMille. Armado com uma câmera, Sammy começa a fazer seus próprios filmes em casa, para o deleite de sua mãe solidária.</info>
+</item>
 
-
+<item>
+<title>[COLOR silver][B] NA PALMA DA MÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650dee66175400c7a45c6588484d1d5a985f249d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida de uma mulher vira de cabeça para baixo quando um homem perigoso encontra um celular perdido e começa a seguir tudo o que ela faz.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ORAÇÕES PARA BOBBY   [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

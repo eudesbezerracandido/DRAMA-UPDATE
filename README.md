@@ -1,5 +1,15 @@
 # DRAMA-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] ABISMOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c8898c42d7030aaa00d3939b69df8ebcba7ae95</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AjsvStrb4nN0e1pQHXIl8qm3aar.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O corpo de uma garota de programa é encontrado em um lago gelado e a detetive Lisa, obcecada por trabalho, acaba se envolvendo demais no caso, ultrapassando limites e irritando seu superior e seu parceiro que a acompanha nas investigações.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ILHA DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8210169fb2133a64e6033c3059ee8eaac7e02df7</link>

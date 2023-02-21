@@ -1,6 +1,12 @@
 # DRAMA-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] CORAÇÃO DE CAMPEÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b94dea6c012417bfc42c583a8f8ae8a17008d91</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cTayZvZzIqHPihU86ei7XhJ8JkD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante seu último ano em uma faculdade da Ivy League em 1999, a vida de um grupo de amigos e companheiros de equipe mudou para sempre quando um veterinário do exército assumiu o cargo de técnico de sua equipe disfuncional de remo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ABISMOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

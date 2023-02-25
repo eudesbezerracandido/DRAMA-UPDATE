@@ -1,5 +1,15 @@
 # DRAMA-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] I WANNA DANCE WITH SOMEBODY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73e9a751b0d162d2d5bbbe2420028b100775b3b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vkOVROMEixrM87hMtopn3JD92Uv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Whitney Houston provou que era uma cantora de enorme talento. Antes disso, enfrentou críticas por conta de seu posicionamento diante de determinadas cobranças feitas e devidamente ignoradas. Sua trajetória da escuridão ao estrelato contou com casos de amor, casamento, e problemas financeiros com o próprio pai. Nada disso, no entanto, foi suficiente para privar o mundo de conhecer uma das maiores cantoras de R&B de todos os tempos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CORAÇÃO DE CAMPEÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b94dea6c012417bfc42c583a8f8ae8a17008d91</link>

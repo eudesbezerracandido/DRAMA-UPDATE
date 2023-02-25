@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EXCLUIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O4BRZDOA3W7MYFOFZVBFRACPT27QI43D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida perfeita de uma mulher de classe média alta começa a desmoronar com a chegada de duas figuras sombrias em sua cidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRANSMISSÕES SINISTRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:470ecb4f711e486a6179570f3a2bb53d3af2b55d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dMbfpHAwOyP7if1rRdw3JCnwYn6.jpg</thumbnail>

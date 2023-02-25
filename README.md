@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MEU NOME É CHIHIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3698ea8dda0fe265b2f520d8745c903ca088b8b2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hkvq6vqz6j1gSojBYkpTjSauFZD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Chihiro tem um charme misterioso que gradualmente afeta as pessoas que têm dificuldade em viver. Ela é uma garota bonita, mas um tanto solitária. Adaptado do mangá Chihiro-san por Yasuda Hiroyuki.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COMO AGRADAR UMA MULHER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:628705ab0bd6d5e9549abb3bec32beda3b25f565</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9PONfgIdAx01DJ0Ld93PVXxoU9r.jpg</thumbnail>

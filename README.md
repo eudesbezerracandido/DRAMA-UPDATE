@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TRANSMISSÕES SINISTRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:470ecb4f711e486a6179570f3a2bb53d3af2b55d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dMbfpHAwOyP7if1rRdw3JCnwYn6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um arquivista de vídeo (Harry Shum Jr.) encontra um clipe perturbador do que parece ser um androide aprisionado. A princípio ele acredita que é o produto de uma intrusão no sinal de transmissão, mas logo sua descoberta toma caminhos sinistros quando ele descobre outras invasões similares.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEU NOME É CHIHIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3698ea8dda0fe265b2f520d8745c903ca088b8b2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hkvq6vqz6j1gSojBYkpTjSauFZD.jpg</thumbnail>

@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VALENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d5ee375aa8062441e39f6e35d28974a445cbcda</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v6aAs9edaRQMwZIprxeDDdTdB9K.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nas férias de verão, Darious, de 14 anos, explora os limites de sua masculinidade por meio de interações desordenadas com seu pai rígido, Malcolm, e a orientação do misterioso andarilho, Porter. Ao descobrir a verdadeira identidade de Porter, Darious é jogado no meio de um conflito entre os dois homens que poderá colocar tanto sua família quanto sua segurança em jogo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CORAÇÃO DE CAMPEÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b94dea6c012417bfc42c583a8f8ae8a17008d91</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cTayZvZzIqHPihU86ei7XhJ8JkD.jpg</thumbnail>

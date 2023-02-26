@@ -1,6 +1,12 @@
 # DRAMA-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] NÃO DEVIAMOS TER CRESCIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71c8eb13275e1dd0e9f7de2099a17295565fdc20</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fWwr0mLfuA7j65BiCISmMUbDmK4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um antigo amor envia uma solicitação de amizade, um homem mergulha em lembranças da época mais colorida de sua vida. Baseado no livro de Moegara.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] I WANNA DANCE WITH SOMEBODY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

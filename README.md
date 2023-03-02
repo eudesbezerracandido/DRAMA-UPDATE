@@ -1,5 +1,14 @@
 # DRAMA-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] ELA DISSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VPVSLW367K4NHWM3KQUIB63KLVJGGSUP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8BNJjZRfNoD0bskwuY3Oekzz2Ih.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado na investigação do New York Times, este filme segue a incrível história verídica de como as repórteres Megan Twohey e Jodi Kantor passaram de desconhecidas a inspirações, quebrando o silêncio em torno do assunto de agressão sexual em Hollywood. Determinadas em expor a verdade que muitos tinham medo de contar, a parceria entre Megan e Jodi agita o sistema, dando poder às mulheres corajosas para recuperar sua força através de histórias de sobrevivência, neste filme extraordinário da diretora vencedora de um Emmy®, Maria Schrader, que conta com os desempenhos cativantes de Carey Mulligan, nomeada duas vezes para um Prêmio da Academia®, e Zoe Kazan.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NÃO DEVIAMOS TER CRESCIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71c8eb13275e1dd0e9f7de2099a17295565fdc20</link>

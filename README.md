@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9cf5ab2537f7df5ff98132ad9ee5a1daecbb129</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ik7M9H9Gza8jqunbfmkfI2PoZHy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história se passa em 1820, Reino Unido. A trama acompanha o romance entre a paleontóloga Mary Anning (Kate Winslet), que faz importantes descobertas científicas de fósseis marinhos de amonite (um tipo de molusco), ao longo do Canal da Mancha, e uma jovem londrina (Saoirse Ronan), que vive junto ao mar enquanto sua saúde se recupera.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DECISÃO DE PARTIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a7b7d6dce39ce27e6ce279e372aad123395cd9d</link>

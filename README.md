@@ -1,7 +1,13 @@
 # DRAMA-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] DECISÃO DE PARTIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a7b7d6dce39ce27e6ce279e372aad123395cd9d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6EhQAZKtiOOVcMgIsrix87ZUl4M.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um detetive (Park Hye-il) se apaixona por uma misteriosa viúva (Tang Wei) após ela se tornar a suspeita número um em seu último caso de assassinato.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ESTA NOITE VOÇÊ DORME COMIGO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

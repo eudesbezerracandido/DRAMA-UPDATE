@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BABILÔNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6712130965bfbfc20af4fb351ae46ded2a9a07f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4OJD4rB9tEdymi1h6lnf365KWaB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante a era de ouro de Hollywood, em Los Angeles da década de 1920, um jovem latino está determinado a conseguir uma carreira enquanto o cinema entra em fase de transição dos filmes mudos para produções com falas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] 10 DIAS DE UM HOMEM BOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f379e4e317e840560669ce9b88f24891b4a2f536</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg</thumbnail>

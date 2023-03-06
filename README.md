@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] REFÉNS DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RSV7RUGIVFRKPO44F3FUZR34X3JSEC3E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1AVjA9nEkpPfdpFL2f5h1wqI2v8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois grupos de criminosos em guerra se reúnem para trocar reféns, cada lado ignorando que o outro guarda um segredo mortal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BABILÔNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6712130965bfbfc20af4fb351ae46ded2a9a07f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4OJD4rB9tEdymi1h6lnf365KWaB.jpg</thumbnail>

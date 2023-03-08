@@ -9,6 +9,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VIDA DE SOLTEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AIYVBAPTOVYNWGDKI4EQFFWJ3CESD3GP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hxpzmiXJ6w6hviPgN5P6NGCftaa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Seattle, início dos anos 90. Várias histórias paralelas sobre jovens no começo da vida adulta, que estão preocupados em se firmar em suas carreiras e, principalmente, em encontrar o amor. O filme mostra diversos moradores de um mesmo prédio, que freqüentam a mesma cafeteria. Um deles é Steve Dunne (Campbell Scott), que conhece Linda Powell (Kyra Sedgwick) em um show de rock e aos poucos se apaixonam. Também é focado o relacionamento deles e a de amizade de Steve com Janet Livermore (Bridget Fonda), outra moradora do prédio, que quer conquistar um vizinho, Cliff Poncier (Matt Dillon), um roqueiro. Na verdade ela tem um envolvimento com ele, mas Cliff insiste que seja uma relação aberta e isto não agrada muito Janet, que está obcecada por Cliff e pensa em fazer um implante para aumentar os seios, pois acredita que isto agradará Cliff. Paralelamente Debbie Hunt (Sheila Kelley) anseia tanto por achar alguém que produziu um vídeo com alguns efeitos que lhe sirva como apresentação para futuros pretendentes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CARMEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d88006f40beba934aa62f9328640aa84130947cc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t9qYOVlNim2Zm5UAIwR17fc4QuD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma pequena vila mediterrânea, Carmen cuidou de seu irmão, o padre local, por toda a vida. Quando a Igreja abandona Carmen, ela é confundida com o novo padre. Carmen começa a ver o mundo e a si mesma sob uma nova luz.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] REFÉNS DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RSV7RUGIVFRKPO44F3FUZR34X3JSEC3E</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1AVjA9nEkpPfdpFL2f5h1wqI2v8.jpg</thumbnail>

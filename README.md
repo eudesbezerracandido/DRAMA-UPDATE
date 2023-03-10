@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A JOGADA DE CHANG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b985f0199c65df77aaf232a2f970dd2375673f5e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Chang, asiático-americano de 16 anos , é um estudante impopular que adora basquete , mas é sempre subestimado. Embora seus pares tratam ele como insignificante, ele se torna obcecado com aprender com a bola. Ao fazer isso, Chang está determinado a vencer o astro do colégio chamado Matt, ao mesmo tempo em que ganha a adoração de seu interesse romântico, Kristy.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CREED 3 HDCAM CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0CFD5757A6AA0834A6453FD20FBAD39946FA0609</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg</thumbnail>

@@ -1,6 +1,12 @@
 # DRAMA-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] BOA NOITE MAMÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b16597db67b046766ea1a1c7116248a9e566e58</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lwq6ct0AeroUxlXwr49QJiMzf4k.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Chegando à casa de campo da mãe, os filhos gêmeos a encontram com o rosto coberto por uma bandagem – resultado, segundo ela, de uma cirurgia plástica recente. À medida em que o comportamento dela se torna cada vez mais errático e incomum, contudo, um pensamento horrível vai se enraizando na mente dos meninos: a suspeita de que a mulher por baixo da bandagem não é a mãe deles.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] LUTHER - O CAIR DA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

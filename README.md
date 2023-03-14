@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ENCONTROS E DESENCANTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZUMLJRIRKAAIDM5L2KXFS26V6BOYDI4A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5rNusyNT5zRLdDZOXLad0dKXZPc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mika e Tesfay são um casal de artistas, ela é fotógrafa e ele é um músico. Eles são o primeiro amor um do outro, mas um conflito invisível, uma vergonha sem nome, perturba a relação. Atrás de portas fechadas e filtros bonitos, reside uma realidade crua onde o controle que Mika tem sobre sua mente e corpo está em jogo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A JOGADA DE CHANG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b985f0199c65df77aaf232a2f970dd2375673f5e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg</thumbnail>

@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HOME CAMING [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:297DFAD2479D2651862FE4288F4747A3CA0C12D1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b0l0kcDBQ7Ad8LfCsGyW5XnU2Pd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Baixar Home Coming Dublado – Dois membros do Ministério das Relações Exteriores da China são encarregados da evacuação de cidadãos chineses quando a guerra irrompe em Numia, no norte da África.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LUTHER - O CAIR DA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b916d32391ce6800f9851aef3ea24400320a0dc0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg</thumbnail>

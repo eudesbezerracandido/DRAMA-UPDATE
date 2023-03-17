@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] AMORES REBELDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:495c2294778ead25a5ede702221539d4549e91a9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p4Y3IV1lJLMlkS6YhzHBgm4UpMF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Através de diferentes histórias que se cruzam, LOVECUT conta sobre três casais de adolescentes e seus conflitos com identidade, amor e sexualidade em nossa sociedade digital em rápida mudança que oferece muitas possibilidades, bem como desafios extremos. O que observamos é um instantâneo, um trecho de suas vidas e de suas histórias de amor. Uma tentativa de compreender melhor a juventude ousada de nosso tempo, bem como a sociedade em que vivemos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM FASCINANTE NOVO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:011d0fb0f96ce541deef709b806e52b497004ff3</link>

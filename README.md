@@ -1,5 +1,15 @@
 # DRAMA-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] UM FASCINANTE NOVO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:011d0fb0f96ce541deef709b806e52b497004ff3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/as59RjHMv1q92aiLgGYslB3pVJx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nova Iorque, década de 1850. Abigail atravessa uma depressão profunda após perder a filha pequena. Sua rotina se transforma quando conhece a nova moradora da fazenda vizinha, Tallie. Juntas, estas duas mulheres se identificam devido às pressões exercidas pelos maridos. Aos poucos, surge entre elas uma história de amor inaceitável para os padrões da época.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BOA NOITE MAMÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b16597db67b046766ea1a1c7116248a9e566e58</link>

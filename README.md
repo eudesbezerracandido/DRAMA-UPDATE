@@ -1,7 +1,13 @@
 # DRAMA-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] PURGATÓRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6073a0ab510ff4a0fed9f61829bc749471b6a848</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4ZqUTECWjB9C4RooLJobTNs82nN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> As pessoas têm se perguntado o que as espera após a morte, desde o início dos tempos. E embora ninguém tenha conseguido penetrar no segredo, tem havido muitas pessoas através dos tempos que puderam ver mais – como Fulla Horak, Santa Faustina Kowalska ou São Padre Pio. Estes místicos – pessoas que foram agraciadas pelas visitas de almas do Purgatório.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AMORES REBELDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

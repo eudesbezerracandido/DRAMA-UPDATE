@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VAGÃO Nº 6 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:565f29d219daad41033e0452a66aa11626edcff6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o2hL5TYSGJqILesNnhNqvgS1RPI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma jovem finlandesa foge de um enigmático caso amoroso em Moscou ao embarcar em um trem para o porto de Murmansk. Ela acaba forçada a compartilhar a longa viagem e um minúsculo vagão-dormitório com um minerador russo. Esse encontro inesperado leva os ocupantes do compartimento nº 6 a enfrentar a verdade sobre seus próprios desejos. Representante da Finlândia no Oscar 2022 de Filme Internacional. Vencedor do Grande Prêmio do Júri no Festival de Cannes 2021.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMORES REBELDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:495c2294778ead25a5ede702221539d4549e91a9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p4Y3IV1lJLMlkS6YhzHBgm4UpMF.jpg</thumbnail>

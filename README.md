@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] INVISÍVEIS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7973b825fdb541d044f9ee16fdb33b7498dc659</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a0nV5qELvg4tmwiq6DbajlBjrmP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Nova York, Little, uma menina de cinco anos, vive com a mãe, Nikki, em uma comunidade que se abriga nos túneis abandonados do metrô. Depois de um despejo repentino por ordem da polícia, as duas são forçadas a fugir para a superfície.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PURGATÓRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6073a0ab510ff4a0fed9f61829bc749471b6a848</link>

@@ -4,7 +4,7 @@
 
 <item>
 <title>[COLOR silver][B] A BATALHA DE UM PAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:531085de76adb35ff9e3a5ac8d43c8904617c47c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vPMSZc2RCNnO8T4NxSzTXAQ3ZE6.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Qual a principal arma contra o extremismo? Para o diretor Ivan Bolotnikov (‘Kharms’), talvez a palavra de um pai. Pelo menos é isso que mostra o potente drama ‘A Batalha de um Pai’, longa-metragem de Bolotnikov baseado na história real de um ex-militar russo, um viúvo, que descobre que sua única filha Maryam foi recrutada por terroristas e fugiu para a Síria. A partir daí, acompanhamos aflitos, do outro lado da tela, esse homem fazendo de tudo para que a filha desista do extremismo e volte para suas origens. O destaque do filme fica com Géza Morcsányi, o pai da história, que se entrega de corpo e alma para tirar a filha da Síria.</info>

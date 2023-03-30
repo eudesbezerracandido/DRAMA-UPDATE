@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MORTE ABAIXO DE ZERO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d07eaf84165a80bdffceb6a01583b99241d8bcf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/INKe64xL2y6VzIyljBLauscqXG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ex-traficante de seres humanos encontra o corpo assassinado de seu sobrinho em um vale remoto. Assim que a polícia começa a investigar o caso de assassinato, ele se torna o principal suspeito.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A BATALHA DE UM PAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:531085de76adb35ff9e3a5ac8d43c8904617c47c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vPMSZc2RCNnO8T4NxSzTXAQ3ZE6.jpg</thumbnail>

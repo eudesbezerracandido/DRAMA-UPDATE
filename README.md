@@ -1,7 +1,12 @@
 # DRAMA-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] PECADOS CAPITAIS:IRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6B17FFE3A7AD643762FF86E2184962F7748E5932</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jTnbZazSO57DXIHI7UzIkhYRCcz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois que a advogada solteira Chastity Jeffries conhece Xavier Collins, ele parece ser tudo o que ela procura em um sócio bonito, inteligente e também um advogado. Quando seu afeto se transforma em obsessão, Chastity percebe que foi varrida pela paixão de Xavier e abandonou seus princípios. Quando o ciúme e a ira de Xavier levam a ações suspeitas e ameaças perigosas, Chastity confia em sua mãe Sarah e se volta para seu ex-namorado de infância Roger Thompkins.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FÉ NAS ALTURAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

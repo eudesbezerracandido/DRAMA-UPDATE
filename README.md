@@ -1,5 +1,15 @@
 # DRAMA-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] AS VIDAS DE GLÓRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fff7f98262637332122a3732bccaccd3459c65c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6oIF9dxyrF4Mn6kqK5ownv2jkLc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>elata a história da influência infantil da ícone feminista Gloria Steinem em sua vida como escritora, ativista e organizadora pelos direitos das mulheres em todo o mundo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PECADOS CAPITAIS:IRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6B17FFE3A7AD643762FF86E2184962F7748E5932</link>

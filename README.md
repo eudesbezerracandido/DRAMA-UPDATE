@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] ESCAPANDO DA SEITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f17710a5362b264033f023ac6abebcbb9bea641</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/q3UXYbmYiNVF7DVFZIgdCi25Qw1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mãe que não vai parar por nada para ter sua filha de volta expõe o intrincado poder de sedução de Allison e Keith e o abuso físico e mental infligido à filha.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TETRIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

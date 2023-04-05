@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NEZHA - CORRENDO PELA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a76b43542f236b3d45f9d94abc889f4258d8564</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pSOiBDfZWeQ7hFLwZQS0tzcrX2z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O campeão do simulador de corrida Du Jieke se une à equipe Lions e desafia os campeonatos de fórmula 1 por sua paixão pela piloto Lu Lili. Com um oponente forte e conflitos a resolver, a equipe enfrentará uma batalha feroz.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA CHAMCE PARA RECOMEÇAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ded528ef4e126c5e30de744ce8c0add80a80e6a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jrQIRVYVEl98jZrZJYCGtTj2ks7.jpg</thumbnail>

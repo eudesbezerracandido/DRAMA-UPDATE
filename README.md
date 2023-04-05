@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA CHAMCE PARA RECOMEÇAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ded528ef4e126c5e30de744ce8c0add80a80e6a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jrQIRVYVEl98jZrZJYCGtTj2ks7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ano após a perda de seu pai, Ridley e sua mãe, Gloria, mudam-se para a Austrália Ocidental para morar com o avô de Ridley, Spencer. Uma vez lá, Spencer tenta se conectar com Ridley, mas todos os esforços geralmente levam ao conflito. Ridley acaba perdido nas profundezas do outback em uma missão para tentar voltar para casa. Enquanto isso, Spencer e Gloria procuram Ridley no outback. Spencer tenta tranquilizar Gloria de que seu filho ficará bem, o tempo todo tentando chegar a um acordo com a perda de seu único filho. Enquanto sofre com os elementos do outback australiano (especialmente para um garoto de Nova York), Ridley consegue salvar um dingo, Buckley, de uma armadilha na perna. Os dois desenvolvem um vínculo e tanto o menino quanto o cachorro tentam sobreviver aos elementos para levar Ridley de volta para casa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TETRIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc75af7b4ce06ef29df159bff84bca746957509b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg</thumbnail>

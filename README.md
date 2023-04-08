@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] FOME DE SUCESSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72037b8118e23da9be54dff05d18c9459993cce3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7KoIbKQIweYAX3VejtLlqWXdp6b.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Aoy, uma mulher de vinte e poucos anos, administra o restaurante local de macarrão frito de sua família no bairro antigo de Bangkok. Um dia, ela recebe um convite para deixar o negócio da família e se juntar à equipe ‘Hunger’, a equipe de mesa do chef de luxo número um da Tailândia, liderada pelo famoso e infamemente desagradável Chef Paul.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TILL- A BUSCA POR JUSTIÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05b8ec62efc11eba8110d567159fa9b4d5f0a759</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ogb70EGzxqdbH5p8mmWJ5CEYSp3.jpg</thumbnail>

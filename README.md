@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] TILL- A BUSCA POR JUSTIÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05b8ec62efc11eba8110d567159fa9b4d5f0a759</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ogb70EGzxqdbH5p8mmWJ5CEYSp3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Biografia de Emmett Till e a luta judicial de sua mãe, Mamie Till. Em 1955, Emmett Till viajou de Chicago para o Mississippi para visitar seus primos. Antes disso, sua mãe lhe disse para tomar cuidado no estado do sul, já que lá ele seria tratado diferente do que em Chicago, por ser negro. No estado do sul, o garoto e seus parentes pararam em uma loja de conveniência, onde a frentista e dona da loja branca Carolyn Bryant alegou que ele lhe assobiou para ela, deixando-a desconfortável, mais tarde alegaria outras informações que nunca poderiam ser constatadas veridicamente. Mais tarde, dois homens brancos raptaram o menino de quatorze anos e matariam, linchariam, amarrariam seu pescoço com arame farpado e jogariam seu corpo fora por conta do que, supostamente, teria feito. Dias depois sua mãe receberia o corpo em Chicago, onde mostraria para todo mundo o estado mutilado e inchado do corpo. A morte de Emmett Till posteriormente ajudaria no Movimento dos Direitos Civis.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B]  A BALEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

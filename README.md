@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B]  A BALEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e80e251f128ad1dfc6d6ea23dfb35323b0c2837</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A Baleia, seguimos um professor de inglês e seu relacionamento fragilizado com sua filha, Ellie. Charlie (Brendan Fraser) é um professor de inglês recluso, que vive com obesidade severa e luta contra um transtorno de compulsão alimentar. Ele dá aulas online, mas sempre deixa a webcam desligada, com medo de sua aparência. Apesar de viver sozinho, ele é cuidado pela sua amiga e enfermeira, Liz (Hong Chau). Mesmo assim, ele é sozinho, convivendo diariamente apenas com a culpa, por ter abandonado Ellie (Sadie Sink), sua filha hoje adolescente que ele deixou junto com a mãe Mary (Samantha Morton) ao se apaixonar por outra mulher. Agora, ele irá buscar se reconectar com a filha adolescente e reparar seus erros do passado. Para isso, ele pede para que Ellie vá visitá-lo sem avisar sua mãe e ela aceita, com o única condição de que ele a ajuda a reescrever uma redação para a escola.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ESCAPANDO DA SEITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f17710a5362b264033f023ac6abebcbb9bea641</link>

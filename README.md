@@ -1,6 +1,17 @@
 # DRAMA-UPDATE
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] MINHA ZOE,MINHA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89b79774d84ab308df8a3d9dc7dd0becb3529a74</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hRjDQti3zfY63DOmzid0N4uYrUP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baixar Minha Zoe, Minha Vida Dublado –Isabelle (Julie Delpy), uma geneticista em recuperação de um casamento tóxico, está criando sua única filha, Zoe, com seu ex-marido (Richard Armitage). Zoe significa tudo para a mãe e, quando a tragédia atinge a família fraturada, Isabelle usa seus conhecimentos para resolver o problema com suas próprias mãos. Como o amor desta mãe não tem limites, Isabelle viaja para a Rússia em busca da ajuda de um médico de fertilidade de renome mundial (Daniel Brühl), que Isabelle acredita que pode ajudar a trazer de volta sua filha.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FOME DE SUCESSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72037b8118e23da9be54dff05d18c9459993cce3</link>

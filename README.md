@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A FELICIDADE MORA AO LADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2310b16df14a908e6ee370c2fb564309f45afca8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pM7goQohLEojWhS94SijerhFuDJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Pouco antes do Natal, após sair da cadeia, Jon Price, um presidiário em liberdade condicional, se vê obrigado a voltar para sua pequena e chuvosa cidade natal e reencontrar sua família. Lá, ele inesperadamente volta a encontrar a felicidade ao conhecer Olivia, uma mãe solteira que lhe mostra a verdadeira bondade, e então Jon passa a exercer o papel de pai para a filha dela.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TÁR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01c8c79a6825ed2277a50b66505ec090d13944be</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9FSlyzf5qXOOxAthSFHzxB7iVGg.jpg</thumbnail>

@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DE FÉRIAS PARA O AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed81617a91c3e9a9c23c168163b9dd7af381cec1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/67Q6ga3DoVnTkxmFsW1p5hbTMMC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Caroline, uma advogada irremediavelmente viciada em trabalho, está prestes a enfrentar outro Natal solitário. Quando suas duas melhores amigas a presenteiam com um pacote de férias em Prince George, Canadá, Caroline se vê entretida com os esportes de inverno e a promessa da magia das férias contagiando sua amorosa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FELICIDADE MORA AO LADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2310b16df14a908e6ee370c2fb564309f45afca8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pM7goQohLEojWhS94SijerhFuDJ.jpg</thumbnail>

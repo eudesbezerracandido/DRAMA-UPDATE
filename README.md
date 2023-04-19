@@ -1,6 +1,17 @@
 # DRAMA-UPDATE
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] HOMENS NÃO CHORAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gP6xNBRTp2oGauqFZToIbXGTGnB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado em uma história real. Paul Connolly tenta reconstruir aos poucos sua vida depois de ter uma infância díficil em um orfanato. Mas quando seu amigo de infância aparentemente comete suicídio, ele é obrigado a reviver suas lembranças traumáticas durante uma investigação policial sobre o caso. Paul precisará enfrentar os demônios de seu passado para conseguir finalmente seguir em frente com sua vida.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DE FÉRIAS PARA O AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed81617a91c3e9a9c23c168163b9dd7af381cec1</link>

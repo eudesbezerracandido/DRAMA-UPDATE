@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] OS ESQUECIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd536a439ff06532284d9c9bd9204b7c3978a7d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/DV3SLJ56RkrunusKCQBfBOkMF4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nina, uma professora de língua ucraniana de 30 anos, não pode sair da cidade de Luhansk, ocupada por separatistas no leste da Ucrânia. Forçada a ensinar russo, seu caminho se cruza com o de Andrii, um estudante de 17 anos, quando ela testemunha o jovem sendo preso pela polícia após colocar a bandeira ucraniana no telhado da escola. Com medo de que Andrii fique muito tempo na prisão, Nina arrisca sua vida para libertá-lo, e os dois acabam se apaixonando enquanto lutam pela liberdade da região.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ENCURRALADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b1ea7fbcc6ac934d680341c39cd697a8fc1cd50</link>

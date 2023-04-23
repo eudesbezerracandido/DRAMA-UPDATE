@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] A PELE QUE HÁBITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67d74f852ff66451f2969051e48db7ac390bd932</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xGiaUmq2O3lkPlNxJ468Raz7Xek.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O doutor Robert Ledgard (Antonio Bandeiras) é um notável cirurgião plástico, alimentado pela obsessão de recriar em laboratório uma espécie de pele humana, desde que sua esposa sofrera graves queimaduras após um acidente de carro. Atormentado pela morte da mulher e, posteriormente, pela morte da sua única filha, Ledgard se mostra um homem inescrupuloso e não medirá esforços para colocar em prática seus experimentos, ao mesmo tempo em que buscará saciar o desejo de vingança pela morte de seus entes queridos. Ajudado por Marilia (Marisa Paredes), a mulher que o criou – que mais tarde se revelará sua mãe – o médico aprisiona em sua casa a vítima perfeita, que servirá de cobaia para a grande experiência. No entanto, devido às interferências de um irmão (Roberto Álamo) que Robert também desconhece, a história ganha outros rumos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] OS ESQUECIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] PAIXÕES ENTRELAÇADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ceb8a1cd7e5716881d20839a4d0e1f6c63305447</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zweOqEOjTWlOMtvWA9ykOLvL1nU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bertie e Lane são duas ex-amantes de um trio de poliamor. Bertie se casou recentemente e se mudou para o sul da França em busca de inspiração para sua carreira musical. Um dia, Lane reaparece em sua vida na esperança de recuperar a rotina que tinham antigamente. Mas tudo muda quando Lane se interessa por outra mulher, e agora as duas precisarão encontrar o equilíbrio entre desejo, ciúmes, velhos amores e novas paixões.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A PELE QUE HÁBITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67d74f852ff66451f2969051e48db7ac390bd932</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xGiaUmq2O3lkPlNxJ468Raz7Xek.jpg</thumbnail>

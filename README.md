@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] ALGUÉM ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e8bbc0ad9d6eebcb4c4047e45c0d0ab6478657a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aylctgv7m6sWh9knEPcjgdj3arJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Léo tem uma vida feliz, com trabalho, amigos e sua noiva Ana. Depois que uma publicação na internet o lembra de um romance adolescente que ele teve há muitos anos, uma série de eventos estranhos começam a acontecer com o casal.'AS</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DIAS DE DESEJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] ENTRE IRMÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A1B162B419A5259450664ADA629A6B5357BF75C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/us0PA2kaOZjOXLjJifIz9EXFGiC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sam Cahill tem tudo sob controle: uma carreira militar de sucesso, uma bela esposa e duas filhas. Seu irmão mais novo, é um vagabundo que vive no limite da lei. Quando Sam é enviado ao Afeganistão, em uma missão da ONU, a harmonia entre os dois irmãos muda para sempre. Sam some e sua esposa é consolada por seu irmão que, apesar de tudo, mostra que é capaz de assumir a responsabilidade por si próprio e pela família. Quando Sam volta para casa, traumatizado por ter ficado prisioneiro nas montanhas do Afeganistão, nada está como antes.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ALGUÉM ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e8bbc0ad9d6eebcb4c4047e45c0d0ab6478657a</link>

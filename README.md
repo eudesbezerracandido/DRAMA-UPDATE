@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] O LUTADOR DE AUSCHWITZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce4e496d44cadd7c9204bc91402d858ebf19fd3f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dT9gLRbSHud53fENsqloMH6OUsu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Acompanhe um olhar sobre a vida do campeão de boxe Tadeusz Teddy Pietrzykowski, que em 1940 chega no primeiro transporte de prisioneiros ao recém-criado campo de concentração de Auschwitz.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ENTRE IRMÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

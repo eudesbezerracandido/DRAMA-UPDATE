@@ -1,8 +1,13 @@
 # DRAMA-UPDATE
 
 
-
-
+<item>
+<title>[COLOR silver][B] A GRANDE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e124662de3eafb91911d8895f1654e6669547c6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8XjW4WTBq7aKvBqVqkUr3hjnfhx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante os últimos dias da I Grande Guerra, um grupo de soldados americanos são enviados atrás das linhas inimigas, para resgatar um pelotão perdido.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A ROLETA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

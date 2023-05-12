@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VIVA O MÉXICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94cfcf86939c93160413771568dfb340b6a8ef61</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mZWLkJQeVy990LMFGlFJphOaioh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma família pobre e numerosa aguarda ansiosamente a morte do patriarca da família, para saber como ele distribuirá sua herança. Para surpresa e fúria de todos, sua fortuna vai para as mãos de seu neto Pancho, o único da família que teve sucesso na vida e que todos consideram presunçoso e arrogante. Pancho volta à sua cidade natal para receber a herança, mas sua presença e riqueza inesperada despertam a inveja, o ressentimento social e a ganância de toda a família, que tentará subtrair o imenso tesouro de Pancho a qualquer preço.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA CHANCE PARA O SUCESSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccacac4ffa52ae145b3441b34f9cc7f138ea79c4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bThHBHUrnhjtgl9OcFsiyI82j2q.jpg</thumbnail>

@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] UMA CHANCE PARA O SUCESSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccacac4ffa52ae145b3441b34f9cc7f138ea79c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bThHBHUrnhjtgl9OcFsiyI82j2q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nicholas é um cineasta que há anos sacrifica tudo que tem para criar filmes de qualidade junto com sua equipe, mas nunca consegue chamar a atenção da elite da indústria cinematográfica. Desolado depois que seu projeto mais recente não é aceito em nenhum dos grandes festivais, ele conhece a atriz Lauren, que tem uma carreira de sucesso. Ela passa então a ser uma guia para Nicholas, que se motiva em busca de uma oportunidade de ouro.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A GRANDE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e124662de3eafb91911d8895f1654e6669547c6</link>

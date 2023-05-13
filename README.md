@@ -1,7 +1,12 @@
 # DRAMA-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] TERRA SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30081d0af5d43c75ecb9b10e563409da0b4b6ef6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/y9Pj6lwz4J3lBMogjXFkuvA9ZUX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um relutante boxeador e seu irmão devem viajar pelo país para uma última luta, mas uma inesperada companheira de viagem expõe as fissuras em seu vínculo ao longo do caminho.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O PREÇO DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

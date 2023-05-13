@@ -1,6 +1,16 @@
 # DRAMA-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] CARGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1e43a714f63220eeca7c531f3f1aae93d84383a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kGcWFjIT4cjrpLIhmqqIiXzc4od.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Andy (Martin Freeman) corre contra o tempo para salvar sua filha. Infectado por um vírus de uma pandemia zumbi, ele tem apenas 48 horas para encontrar um lugar seguro a fim de proteger a criança. A salvação que o pai procura pode estar em um tribo aborígene isolada, mas para ter acesso ao grupo, ele terá que ajudar uma jovem indígena em uma missão perigosa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O PRIMEIRO HOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F0FEDC20A93AA0F000147BEEBCED53F4E0B2AE0F</link>

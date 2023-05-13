@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O PREÇO DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f936ad3d0fae3e98154d469709f1221f2541c851</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lKdziKQoiDUs644L4HrR2P3cw1l.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um advogado arrisca sua carreira e família para descobrir um sombrio segredo escondido por uma das maiores empresas do mundo e levar justiça a uma comunidade perigosamente exposta por décadas a produtos químicos mortais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CARGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1e43a714f63220eeca7c531f3f1aae93d84383a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kGcWFjIT4cjrpLIhmqqIiXzc4od.jpg</thumbnail>

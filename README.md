@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] O PRIMEIRO HOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F0FEDC20A93AA0F000147BEEBCED53F4E0B2AE0F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de dirigir o seis vezes ganhador do Oscar, LA LA LAND, o premiado diretor Damien Chazelle e o ator Ryan Gosling retomam a parceria em “O PRIMEIRO HOMEM”, uma fascinante história sobre os bastidores da primeira missão tripulada da NASA rumo à Lua, com foco em Neil Armstrong e o voo da Apollo 11. Baseado no livro de James R. Hansen, o longa é uma produção visceral pela perspectiva de Armstrong , que explora os sacrificios e os custos de um homem e de uma nação a fim de concretizar a missão mais perigosa da história. Escrito pelo vencedor do Oscar Josh Singer (Spotlight — Segredos Revelados, The Post — A Guerra Secreta), o drama épico é produzido por Wyck Godfrey e Marty Bowen (A Culpa é das Estrelas), sob o selo Temple Hill Entertainment, em parceria com Isaac Klausner (Com amor, Simon) e Chazelle. A produção executiva fica a cargo de Steven Spielberg, Isaac Klausner, Adam Merims e Singer. Dreamworks Pictures cofinancia o filme.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

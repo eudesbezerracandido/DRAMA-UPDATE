@@ -1,8 +1,13 @@
 # DRAMA-UPDATE
 
 
-
-
+<item>
+<title>[COLOR silver][B] MEU PRIMEIRO VERÃO NA CALIFORNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41ff0ea304270991c76835396eb8d9a5caa40390</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k9yvYGnnMuUuNdwVBBCbx9mFuVd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após se mudar de uma cidade fria e pequena para uma praia da Califórnia, um adolescente determinado luta para se encaixar entre os alunos da turma de salva-vidas enquanto concilia novos desafios, amizades e paixões durante o verão de 1986.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TERRA SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

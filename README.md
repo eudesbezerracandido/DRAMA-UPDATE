@@ -1,5 +1,15 @@
 # DRAMA-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] CRÔNICAS DE UMA TORMENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2CAC40C8612648A3A495048CD58C4EE922DE3B0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hAifrmtS7GWF1vJC6HhgoFDb8Va.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um importante editor de jornal precisa escolher seu próximo sucessor. Essa decisão acabará sendo um perigoso jogo sexual e de poder.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TERRA SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30081d0af5d43c75ecb9b10e563409da0b4b6ef6</link>

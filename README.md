@@ -1,7 +1,12 @@
 # DRAMA-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] FANFIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dbd574645c39fe3fc6be413181b1e65d99bf5f5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xf5t1vQQjJRWUv6Hg1kafyYZZ8t.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois estudantes do ensino médio formam uma conexão intensa enquanto navegam pelos desafios de descobrir e expressar seu verdadeiro eu.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] F1: FURIUS ONE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

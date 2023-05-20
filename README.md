@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MEU CORAÇÃO SÓ IRÁ BATER SE VOCÊ PEDIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d8a7a386a7b6bbaf6851fa452ad1af69996c2c2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bUJQxmZxM7GL8kmDRE6OMigzDn0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dwight e a irmã Jessie precisam arrumar uma maneira de lidar com a misteriosa doença de Thomas, o frágil irmão mais novo dos dois. Eles discordam sobre como cuidar de Thomas, que só consegue se alimentar de sangue humano.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] F1: FURIUS ONE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7260e9b9b853c17cfa7a2fe677dcb7323ac36a20</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/z0xO5rc4jmYr62isjTRhyabMan4.jpg</thumbnail>

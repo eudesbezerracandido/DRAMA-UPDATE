@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] 2 CORAÇÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd0ceeaf2a7ec92f586a636e22d97d0baaf88a9c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zpujQ6Wd4UuAykFpgoICJVJ9s1f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Para dois casais, o futuro se desenrola em décadas e lugares diferentes, mas uma conexão oculta os unirá de uma maneira que ninguém poderia ter previsto. Baseado em uma história verdadeira inspiradora, 2 Hearts é uma jornada romântica que celebra a vida, o amor e a generosidade de espírito e desafia o público a acreditar que milagres são possíveis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEU CORAÇÃO SÓ IRÁ BATER SE VOCÊ PEDIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d8a7a386a7b6bbaf6851fa452ad1af69996c2c2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bUJQxmZxM7GL8kmDRE6OMigzDn0.jpg</thumbnail>

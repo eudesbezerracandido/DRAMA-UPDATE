@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FILHO DO CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a5a7dd34bfc9a4cd40397963f9f736de29c3f4b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hxEcj8v3sdbmoREsbOTTZBQFNAC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Johnny, de 14 anos, é um traficante de drogas que vive em uma casa para jovens. Quando ele conhece Anthony, um famoso ator que passa as noites entre drogas, álcool e sexo, eles ficam amigos. Ao saber que não poderá mais voltar para casa nos fins de semana, Johnny pede a Anthony para ser seu guardião.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] 2 CORAÇÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd0ceeaf2a7ec92f586a636e22d97d0baaf88a9c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zpujQ6Wd4UuAykFpgoICJVJ9s1f.jpg</thumbnail>

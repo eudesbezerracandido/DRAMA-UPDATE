@@ -1,5 +1,14 @@
 # DRAMA-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] A CORDILHEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823c6de2c8fc7aca31c42be8b79b4a47901ce4c9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eKO8ktrWrg7QqRpGaMSqvHhGnp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A caminho de uma cúpula de presidentes latino-americanos, o líder argentino Hernán Blanco precisa administrar uma crise familiar que o vincula a um escândalo de corrupção.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] FANFIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dbd574645c39fe3fc6be413181b1e65d99bf5f5</link>

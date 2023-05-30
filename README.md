@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O ÚLTIMO VAGÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56c7acea90503cb4b4424ae0ca1bfb0c7fbaa468</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9PkragT5Qwt3cxpbFfsOY9fQees.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ikal e sua família viajam por todo o país de trem, enquanto seu pai, Tomás, repara e constrói trilhos. Eles nunca ficam muito tempo em um só lugar, mas em uma das paradas, Ikal faz novos amigos: Chico, um menino cheio de rebeldia. Valeria, uma garota inteligente que vai mexer com o coração de Ikal. Tuerto, outro menino que também vive a vida nos trilhos. E Quetzal, um vira-lata que decide entrar para a família. Os quatro amigos estudam com Georgina, uma professora implacável que faz tudo o que pode pelos seus alunos com o pouco que tem. É ao lado dessa turma que Ikal finalmente se sentirá em casa. Mas essa rotina mágica está por um fio: Hugo Valenzuela, um inspetor da Secretaria de Ensino Público está chegando. Ele tem a ingrata missão de fechar escolas rurais, supostamente para um bem maior. Isso significa que muitas crianças não terão a chance de continuar seus estudos. Enquanto Hugo viaja pelo estado fechando escolas, uma delas chama sua atenção: a Escola Pública Malinalli Tepenepatl, a mesma onde Ikal aprendeu sobre o valor da amizade, a importância de crescer com objetivos e o impacto que os professores podem ter na vida dos seus alunos.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] BELO DESASTRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d52e90b16c69aff4f7518a09159df3ac5a38682</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uNIadSJbxQ0p0DtJLUPfVW6TAEu.jpg</thumbnail>

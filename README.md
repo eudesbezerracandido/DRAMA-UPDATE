@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] BELO DESASTRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d52e90b16c69aff4f7518a09159df3ac5a38682</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uNIadSJbxQ0p0DtJLUPfVW6TAEu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Intrigado com a resistência de um calouro da faculdade, um boxeador oferece uma simples aposta: se ele perder sua próxima luta, ele deve permanecer sem sexo por um mês</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] A CORDILHEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823c6de2c8fc7aca31c42be8b79b4a47901ce4c9</link>

@@ -1,6 +1,12 @@
 # DRAMA-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] 3096 DIAS DE CATIVEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD74790980C96A81CD445CA5EF7D64B8C6143207</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cV5BPqLxe1BynyexKZar3KOnYV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Viena, 2 de março de 1998. A jovem Natascha Kampusch de 10 anos é arrastada para dentro de uma van pelo engenheiro de telecomunicações Wolfgang Priklopil enquanto ia para a escola. O sequestrador não quer resgate, ele quer apenas possuí-la. Embaixo de sua casa numa zona residencial de classe média, Priklopil construiu uma cela secreta para aprisioná-la. Baseado na história real de Natascha Kampusch.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O ÚLTIMO VAGÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

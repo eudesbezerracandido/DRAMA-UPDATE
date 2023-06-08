@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] AMOR,SEXO & PANDEMIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2855dab8c9e3d2a2152ebc8b9021f13ba694ef60</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vQG7sctUGPWxqIkJfdGBgNPL2cz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma visão sobre a epidemia e a solidão em que vivemos. O fato de termos acesso cada vez mais fácil ao sexo sem sexo, temos um problema crescente em construir uma relação de proximidade e amor com outro ser humano. Uma história realista documentada de quatro relações sexuais humanas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MINHA CULPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

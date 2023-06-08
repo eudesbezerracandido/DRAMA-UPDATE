@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A VIDA DO LIVREIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9462042b4657819b633d2b48a919b9f1e1123caa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ffPdKMxc2sAQDKXkDaO2EPifMuf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A vida de A.J. Fikry, dono de uma livraria, não está indo como esperado. Sofrendo com o trágico falecimento de sua esposa, ele atinge o fundo do poço quando seu pertence mais valioso é roubado. Porém, com a vendedora de livros, Amelia, chegando em sua vida, assim como uma entrega inesperada chegando em sua porta, Fikry ganha uma nova perspectiva na vida e vê seu mundo mudar de várias maneiras.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMOR,SEXO & PANDEMIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2855dab8c9e3d2a2152ebc8b9021f13ba694ef60</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vQG7sctUGPWxqIkJfdGBgNPL2cz.jpg</thumbnail>

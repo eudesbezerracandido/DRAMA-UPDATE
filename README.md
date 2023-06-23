@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] AGUAS PROFUNDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cce41d1603766ebe84c6d94aaf85e18af112afb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oGhSy2ao59xJDbCXyABofNhsV3o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Vic e Melinda são um casal que, ao tentar resolver os problemas do casamento, abre a relação para ter casos com outras pessoas. Mas, quando os amantes de Melinda passam a aparecer mortos, Vic se torna o principal suspeito dessa série de assassinatos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMALDIÇOADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA77F3F02DB16A426F95DED87C719FDF63BEC6EE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qZOWoWHH8Ukwtxl6MASFtXfy84c.jpg</thumbnail>

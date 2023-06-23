@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] AMALDIÇOADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA77F3F02DB16A426F95DED87C719FDF63BEC6EE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qZOWoWHH8Ukwtxl6MASFtXfy84c.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Liz é uma corajosa mulher que tenta fugir de seu passado, mas passa a ser perseguida por um padre. Diante dessa adversidade, Liz é uma verdadeira sobrevivente, que vai lutar para criar uma vida melhor para ela e sua filha. Custe o que custar, Liz fará de tudo para trazer retribuição.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VIDA DO LIVREIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9462042b4657819b633d2b48a919b9f1e1123caa</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ffPdKMxc2sAQDKXkDaO2EPifMuf.jpg</thumbnail>

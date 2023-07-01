@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] STAR AT NOON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab0312f870381cce14738540d57edd2c3e670f46</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/viR50oQCs8ObciADFGWHUyChexZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Situada na Nicarágua em 1984, a história de paixão, medo e traição conta a voz de uma americana cuja missão na América Central é tão sombria quanto o ambiente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEU VIZINHO ADOLF [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae14c279e4059156459d173d96fefb1050c77f44</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/byWJ3MHBaUszQERasAWyiLSoNt5.jpg</thumbnail>

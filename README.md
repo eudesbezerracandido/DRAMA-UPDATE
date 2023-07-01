@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] MEU VIZINHO ADOLF [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae14c279e4059156459d173d96fefb1050c77f44</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/byWJ3MHBaUszQERasAWyiLSoNt5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>América do Sul, 1960. Um sobrevivente solitário e mal-humorado do Holocausto convence a si mesmo de que seu novo vizinho é ninguém menos que Adolf Hitler. Como não é levado a sério, ele começa uma investigação independente, mas quando as evidências ainda parecem inconclusivas, é forçado a se aproximar do inimigo para obter uma prova irrefutável.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AGUAS PROFUNDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

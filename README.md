@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VENUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c83cf1f53970f6a8c25dcb2b822a7a34fdb67603</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qKPCbZKjrCqR7PSBhgp48Omvhgq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lucía, uma dançarina de discoteca em fuga, refugiou-se em um edifício sinistro na periferia de Madri, onde sua irmã Rocío vive com sua filha Alba.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] STAR AT NOON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab0312f870381cce14738540d57edd2c3e670f46</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/viR50oQCs8ObciADFGWHUyChexZ.jpg</thumbnail>

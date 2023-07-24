@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] JOY - O NOME DO SUCESSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:341a90ec1ed445c48445f9b35df85827208bd78c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7icWz22RlPltHdIpR1iF95fuSrs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Joy é uma jovem mulher que constrói um império comercial e se torna uma matriarca. Os aliados se tornam adversários e os adversários se tornam aliados à medida que a vida interior de Joy e sua imaginação feroz a levam por um mundo de negócios voraz.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JOCKEY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f70a2970d307eab549272fe8433b850228de3df</link>

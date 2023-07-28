@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] ALÉM DA ESCURIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:071350d9d43919140575d2e1c08bbad4dcefb397</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hkjOox98ZM5UVvcTXCYAwWltECS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sequência forte e dramática de TEMPOS DE ESCURIDÃO, e segue a família Skov de 1943 até o final da Segunda Guerra Mundial. A crescente oposição à ocupação e o aumento da brutalidade dos alemães têm consequências fatais para a família.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] JOY - O NOME DO SUCESSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

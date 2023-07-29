@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] A PENA MÁXIMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:307e50492d81c5d5902e3e0f286ead43e8d971b3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3k1alZiI1zp6DSY0wWxiqSRCvmB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Situado no Peru durante a Copa do Mundo de futebol na Argentina em 1978, Félix, um jovem burocrata rigoroso que trabalha em um escritório de arquivo, se envolve na investigação da morte de seu amigo, após descobrir documentos comprometedores que que ele acredite que foi assassinado. A verdade trará o fim da inocência e sua perda de confiança e fé na lei e no sistema político.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AS RACHADURAS DE JARA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

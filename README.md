@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] AS RACHADURAS DE JARA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b3e9b909b7317e93fe9fddc0fa1bcbaf223ebd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e6NG1BQF3xctDpf9PZYMnm46wy4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Com problemas no apartamento, Leonor vai até o escritório de arquitetura responsável pela obra, a procura de Nelson Jara. Lá, os sócios da empresa, Mario e Marta, juntamente com o arquiteto Pablo, dizem desconhecer esse nome, mas a verdade é que o grupo esconde algo perigoso.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ALÉM DA ESCURIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:071350d9d43919140575d2e1c08bbad4dcefb397</link>

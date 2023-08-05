@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] UMA LIÇÃO DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f900263d7a9905ca22373647e7fa1a152ca642a4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3Pwx0E2xQAko1xmd8P9TKrzCnNk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Winter Knight é uma garota que sofre de dislexia e apesar de possuir um imenso talento artístico, ela começa a se dar conta de que o mundo a define mais pelas suas necessidades do que pelo seu dom.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A PENA MÁXIMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:307e50492d81c5d5902e3e0f286ead43e8d971b3</link>

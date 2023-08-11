@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A ARANHA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98b0222175e3003f2aa1bd7007126924e954332d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AkwflqboRNXvwwdY9d5fHijztjL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Christine faz um pacto com o diabo para salvar sua aldeia do terror brutal dos Cavaleiros Teutônicos. Mas quando a vila é devastada pela praga da aranha, ela se torna o bode expiatório e, portanto, a caça.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UMA LIÇÃO DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f900263d7a9905ca22373647e7fa1a152ca642a4</link>

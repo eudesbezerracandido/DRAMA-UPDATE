@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] EM BUSCA DA ETERNA JUVENTUDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d676914bf1eb94eca0ad07a3eba8ffd333577b5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lhCQc23RjqfJkKK3iApwvoqnZ9s.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de sofrer um derrame, Richard e sua esposa Lily decidem se mudar para Amaranth, uma vila isolada e luxuosa para aposentados, onde os privilegiados e poderosos vivem seus últimos anos com uma vitalidade incrível. Lá, Lily percebe comportamentos estranhos, e fica inquieta com a transformação que observa em seu marido e em seu próprio corpo. Ela começa a se perguntar que segredos sinistros esconde este lugar lindo, porém ameaçador.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A ARANHA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98b0222175e3003f2aa1bd7007126924e954332d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AkwflqboRNXvwwdY9d5fHijztjL.jpg</thumbnail>

@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] A SORTE GRANDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e1482880bbb78e01509035185e780cd9b6fa542</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2DiRIkVUURXD40JxcrO1D1i8Og.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Leslie, uma mãe solteira do Texas, ganha na loteria e a desperdiça com a mesma rapidez, deixando para trás um mundo de desgosto. Anos mais tarde, com seu charme acabando e não ter para onde ir, ela luta para reconstruir sua vida e encontrar redenção.Baseado em eventos reais.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 500 COBERTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

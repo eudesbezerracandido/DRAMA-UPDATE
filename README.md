@@ -1,6 +1,15 @@
 # DRAMA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] RESGATE EM ALTO RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13e9e455b6d251410668c3a158e958a2f26a186a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/upovHgcBI4z2J9CWXKwBWgGXyZ0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Síria, na primavera de 2015, Faustine e seu filho de apenas cinco anos estão presos na cidade de Raqqa, enfrentando os horrores da guerra. Enquanto isso em Paris, dois jovens ativistas ficam comovidos com a angústia de Sylvain, marido de Faustine, impossibilitado de ajudar sua família. Os três decidem então planejar uma operação de resgate de alto risco para salvar as vidas da esposa e do filho.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A SORTE GRANDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e1482880bbb78e01509035185e780cd9b6fa542</link>

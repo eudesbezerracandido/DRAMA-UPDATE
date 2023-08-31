@@ -2,6 +2,14 @@
 
 
 
+item>
+<title>[COLOR silver][B] VIDAS EMARANHADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a18cdb835e8132035971d50402592290639febe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7zyrB5no9anfZLaO6KEgtAtiHGl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um fotojornalista, de luto pela perda de seu filho natimorto, é atraído para uma relação obsessiva com uma adolescente grávida.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] RESGATE EM ALTO RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13e9e455b6d251410668c3a158e958a2f26a186a</link>

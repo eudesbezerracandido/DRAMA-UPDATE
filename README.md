@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A ÚLTIMA FRONTEIRA DO OESTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60d4541772a5bb0494de53b9f420baefac06150d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/56aYP5usPlSwq95Cn4GZCNdBM0o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante a Grande Depressão, o banco toma o rancho da família de Stratton Eiseley e ele se vê obrigado a desbravar o oeste selvagem do estado de Montana. Lutando para sobreviver, Stratton faz amizade com nativos, mas uma nova tragédia em sua vida o obrigará a encontrar sua força interior e lutar contra velhos inimigos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A GERAÇÃO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22f2143701e85ba286a9a24bf69578634f683f38</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xcHUuWAUHT7aAoV6IddtgD0qUVI.jpg</thumbnail>

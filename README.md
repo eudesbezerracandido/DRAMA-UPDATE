@@ -2,6 +2,15 @@
 
 
 
+
+item>
+<title>[COLOR silver][B] VÍTIMAS DA INOCÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b5f6e3e3218a808db86f8c980e88d1b90acecc1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ydJixWfCXuBYuWOpKjAXO7lRJet.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um mundo de criminosos anônimos, Anna procura vingança pela morte de sua irmã, que cometeu suicídio devido a uma relação tóxica com um inescrupuloso cafetão. Durante sua busca, ela encontrará uma misteriosa mulher responsável por recrutar garotas jovens e vulneráveis.</info>
+</item>
+
 item>
 <title>[COLOR silver][B] VIDAS EMARANHADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a18cdb835e8132035971d50402592290639febe</link>

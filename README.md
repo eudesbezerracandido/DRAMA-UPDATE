@@ -3,6 +3,14 @@
 
 
 
+<item>
+<title>[COLOR silver][B] A GERAÇÃO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22f2143701e85ba286a9a24bf69578634f683f38</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xcHUuWAUHT7aAoV6IddtgD0qUVI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Gintas é chefe de polícia e está prestes a se aposentar em uma pacata cidade do interior. Ele é amado e respeitado por todos. Ele também faz parte da elite local que governa a cidade há muitos anos. Mas no dia em que um assassino começa a semear a morte entre este grupo unido, Gintas deve não apenas liderar a investigação, mas também proteger sua vida.</info>
+</item>
+
 item>
 <title>[COLOR silver][B] VÍTIMAS DA INOCÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b5f6e3e3218a808db86f8c980e88d1b90acecc1</link>

@@ -1,7 +1,13 @@
 # DRAMA-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] O TRAJETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:327a5f03a897363d70bb8e1fe07018ecda8b4e0b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ducffbn4tq3WS1mrULO5qNuLdL0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1974, o sistema de ensino público de Boston passa por um processo de dessegregação, disponibilizando ônibus escolares para transportarem os alunos das regiões mais pobres até as escolas dos bairros mais ricos da cidade.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A ÚLTIMA FRONTEIRA DO OESTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

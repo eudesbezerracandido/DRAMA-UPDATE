@@ -1,6 +1,17 @@
 # DRAMA-UPDATE
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] AMORES DO PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df948e038b4d276144ea8849f98a04a9f2d4f33c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/L7IfaA6XpmB22lgU6f2cTGc3Zd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem é libertado da prisão após 15 anos. Ele se reúne com sua namorada do ensino médio, agora uma mãe solteira de três filhos. Tornando-se uma história de amor, arrependimento e segundas chances.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O TRAJETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:327a5f03a897363d70bb8e1fe07018ecda8b4e0b</link>

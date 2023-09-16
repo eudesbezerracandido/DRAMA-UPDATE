@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] MORTE A PINOCHET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:956bb612c2d4a37b73114486b3f807a424f69b2c&Play</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4WHSNZi1nvyV5GfXtR9PbVsqJbl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Chile, setembro de 1986. Tamara, comandante do grupo guerrilheiro comunista Manuel Rodríguez Frente Patriótica, e seus camaradas de luta se preparam para derrubar o regime militar instalado em 1973. Seu plano é matar o ditador Augusto Pinochet.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AMORES DO PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df948e038b4d276144ea8849f98a04a9f2d4f33c</link>

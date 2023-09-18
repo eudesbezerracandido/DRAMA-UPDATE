@@ -4,6 +4,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] TEMPESTADE INFINITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b22199d6e77fca1984f3c88a9a2ee9eb025ea57</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jYN6Ezx8jm8BI6g2PANVvmUST3p.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ao subir o Monte Washington em Nova Hampshire, uma experiente alpinista decide voltar antes de chegar ao cume enquanto uma nevasca se aproxima. Mas ao descer, ela encontra um homem sozinho e desamparado, e se encarrega de tirar os dois da montanha antes que anoiteça e eles sucumbam à tempestade. Baseado em uma história real.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MORTE A PINOCHET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

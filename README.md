@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A COR DA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:004ea4485780cb7c514345688f9dad1a7dc14332</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w65phx3T8pvrdtuOQFniNElssNr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Eric Williams é um homem foragido há 27 anos por um assassinato que não cometeu. Quando sua filha é brutalmente atacada por uma gangue de Londres e a polícia decide não fazer nada, ele decide retornar à sua cidade para fazer justiça com as próprias mãos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A APOSTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

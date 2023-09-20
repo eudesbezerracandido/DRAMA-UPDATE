@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] A APOSTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d0c72f5fa8530ae6ef85006144842544da4d7a1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bMfnxFHXD5VBh6m0RBUkZoaYIYc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Brucie perde sua aposta e é misteriosamente jogado de volta no tempo para ver a vida pelos olhos daqueles que ele feriu brutalmente - uma experiência que alterará para sempre sua vida destruída.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TEMPESTADE INFINITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b22199d6e77fca1984f3c88a9a2ee9eb025ea57</link>

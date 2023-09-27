@@ -1,6 +1,13 @@
 # DRAMA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] DIAS DE DESEJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08930c42b8b4e2ceed78d886c7b41bb1552692db</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ihkJjmIPwno6uDF6njWcCwbL8a6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Isabella é uma jovem e linda mulher, traumatizada pela morte de sua mãe italiana quando ela tinha apenas 13 anos. Após a tragédia, seu bem-sucedido pai britânico, Frank, se afundou no trabalho e se afastou da filha. Quando a nova esposa de seu pai, Claudia, o convence a fazer uma viagem de família para uma remota propriedade rural na Itália, Isabella se vê obrigada a ir, mesmo contra sua vontade. Mas tudo muda quando ela conhece o sedutor Matt e acaba tomada por desejos que não consegue controlar.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GUIADO PELO LUAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

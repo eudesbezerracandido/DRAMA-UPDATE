@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OUTBACK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bb6aedbc65ca1e031cca49045b2dcff278a1306</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1eEaliCKndXuINMjcb2ATXUMYIa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em busca de férias cheias de aventura, um jovem casal americano rapidamente se vê preso no implacável outback australiano.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ROCK NEAPOS; ROLL VIVENDO NO LIMITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:731c9f2e45c1ab6c62218baeba4724bb7030658e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yCcjsaluNc1p55q5xphKpJ3jvH2.jpg</thumbnail>

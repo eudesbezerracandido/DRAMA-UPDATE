@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LUTA POR VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:356bf9f461438706dae83151e34cb0724a721f68</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/geG6hgy6WaGt5kTshuPeCF4bHIW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jarah é uma mulher que leva uma vida tranquila no campo com seu marido Waru e sua filha Binda.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EFEITO MANDELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f57678b6ed8b6d16a03234ee1988947fb59cc7ad</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lfNHN7octVCixn38Vu2iQ0klQCg.jpg</thumbnail>

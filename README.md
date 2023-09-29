@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ROCK NEAPOS; ROLL VIVENDO NO LIMITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:731c9f2e45c1ab6c62218baeba4724bb7030658e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yCcjsaluNc1p55q5xphKpJ3jvH2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Aaron é vocalista de uma banda de rock e tem tudo que sempre quis: sucesso, amigos e mulheres. Até que sua vida perfeita desmorona quando ele descobre que está com câncer. Um dia, Aaron se apaixona por Laura, mas, para ficar com ela, ele precisa decidir se vai manter os velhos hábitos de uma vida sem regras ou se prefere amadurecer para sobreviver.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LUTA POR VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:356bf9f461438706dae83151e34cb0724a721f68</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/geG6hgy6WaGt5kTshuPeCF4bHIW.jpg</thumbnail>

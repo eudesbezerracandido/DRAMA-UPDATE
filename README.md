@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EFEITO MANDELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f57678b6ed8b6d16a03234ee1988947fb59cc7ad</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lfNHN7octVCixn38Vu2iQ0klQCg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Efeito Mandela, um termo cunhado de instâncias em que muitos certamente lembrariam algo de um jeito particular, mas resulta ser incorreto, segue um homem que fica obcecado com fatos e eventos que coletivamente foram lembrados por milhares de pessoas. Acreditando que o fenômeno é o sintoma de algo muito maior, sua obsessão eventualmente o leva a questionar a própria realidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUIADO PELO LUAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ace79d349d6ee943ae260db356983b9b5f33d051</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6FDQWH4n3CbdXy6okehSVVenX02.jpg</thumbnail>

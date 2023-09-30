@@ -1,6 +1,17 @@
 # DRAMA-UPDATE
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] MAIOR QUE MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1707c188dfbddee1eca7a1d878cc93b3755bbc89</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4kBYriZGKavfk27qg2IBsVO6Xan.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante uma reportagem na Mongólia, Corine, uma jornalista, participou de uma cerimônia xamânica da qual ela emergiu transformada.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DIAS DE DESEJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08930c42b8b4e2ceed78d886c7b41bb1552692db</link>

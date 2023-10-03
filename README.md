@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ALICE-UMA ACOMPANHANTE PARISIENSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0abea7200bd07bf7f62945f3f0a98ee56b2ffa3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4vRRkOOMwiykXXXqFY3WlevcmOv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Alice levava um casamento feliz ao lado de sua família, até o dia em que o seu marido resolve abandoná-la sem dinheiro algum. Com medo de perder a casa em que mora com seu filho, ela decide procurar trabalho na agência de acompanhantes de luxo que o seu marido frequentava e entrar para o mundo da prostituição.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MAIOR QUE MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

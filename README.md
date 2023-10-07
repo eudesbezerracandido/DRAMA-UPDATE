@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] MARCANDO TERRITÓRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f236fd8d09ba358c3d9cf60278448ebe873a1aa8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ha0oapMtYaAdKBOQw9rENxFLb1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Carter (Thomas Jane), um veterano perturbado, tem uma chance de redenção, protegendo uma menina de 12 anos de idade de um assassino (Laurence Fishburne) depois que ela testemunha um assassinato. Segurando uma espingarda com um único shell, ele se envolve em guerra física e psicológica em uma luta desesperada pela vida da menina.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ALICE-UMA ACOMPANHANTE PARISIENSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0abea7200bd07bf7f62945f3f0a98ee56b2ffa3</link>

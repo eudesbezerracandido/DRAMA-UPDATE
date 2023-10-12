@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O PREÇO DO PRAZER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:877f8571638a62f0d9adcff4682640a2e37bd910</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uvnvE2lwwcFH4Smc4ilz194EdoD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Emi é uma jovem ambiciosa que há anos sonha com um grande mundo. Sempre que surge uma oportunidade, ela pula em seus modos sem hesitação, tornando-se uma acompanhante exclusiva. Logo é ela quem, a convite de xeques árabes, começa a recrutar miss polonesas, celebridades, estrelas de tela e modelos. No entanto, esse mundo inacessível e luxuoso logo mostrará seu lado sombrio.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MARCANDO TERRITÓRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

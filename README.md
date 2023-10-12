@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] DIA DO CASAMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40349d9d82b118ca4045f0883c083156f8ffc753</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7VxK0smYw3wyqBq9vGbINV4Cvy8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma tragédia ocorrida na Segunda Guerra Mundial em uma vila polonesa mescla-se com a cerimônia de um casamento, realizada no mesmo lugar muitos anos depois.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O PREÇO DO PRAZER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:877f8571638a62f0d9adcff4682640a2e37bd910</link>

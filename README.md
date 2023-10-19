@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] NADA SERÁ COMO ANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c968a663c175909af12ac7ff5e9782e8ce6e072</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rROrBVkYyVFKwzZqOjNXLKspV96.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Rodrigo é um adolescente solitário, extremamente dependente de sua mãe. Mas tudo muda quando ela arranja um novo namorado, que vai morar com eles nos arredores da Cidade do México. Rodrigo precisa decidir se aceita o seu novo padrasto ou se luta pela atenção da mãe, mesmo que isso custe a felicidade da pessoa que mais ama.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FILHA DO PRISSIONEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] AS GÊMEAS SILÊNCIOSAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35b8648f83038fc56b798fb54e750293a7e832d1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zPZJuUSjFMvht73XDrvj0HbYWJC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sentindo-se isoladas daquela comunidade hostil, June e Jennifer Gibbons se voltam para dentro e rejeitam a comunicação com todos, menos uma com a outra, refugiando-se em seu próprio mundo de fantasia de inspiração artística e desejos adolescentes.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NADA SERÁ COMO ANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c968a663c175909af12ac7ff5e9782e8ce6e072</link>

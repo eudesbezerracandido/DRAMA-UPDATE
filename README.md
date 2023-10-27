@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] UMA JORNADA DE FÉ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0862abe831f6a27b4fb8c8604d9757ee9af4c911</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t0xbmsuoMRDYVx0hMmQZuFDve09.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um treinador de beisebol de uma pequena cidade muda sua família para treinar em uma grande escola, mas fica feio quando o superintendente o torna o alvo de sua raiva contra Deus.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AS GÊMEAS SILÊNCIOSAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35b8648f83038fc56b798fb54e750293a7e832d1</link>

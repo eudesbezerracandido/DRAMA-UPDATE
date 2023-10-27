@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] PECADOS DA MÁFIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe67a5719ac96d323d38632b78c56bfa50476cf2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2EIBBacO6Jw7mw2UFvMT2bjL8Uz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Pecados da Máfia Torrent – Uma promotora luta contra um poderoso sindicato mafioso, exercendo pressão sobre suas estreitas conexões familiares.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UMA JORNADA DE FÉ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0862abe831f6a27b4fb8c8604d9757ee9af4c911</link>

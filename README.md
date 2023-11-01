@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] RETORNO A SEUL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be3745f328c9e87a21e772d2f1712d13060526b2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ylWKMdWk4Ac30JzPP4fx7RIEEOX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma francesa de 25 anos retorna à Coréia, país em que nasceu antes de ser adotada por um casal francês, pela primeira vez. Ela decide rastrear seus pais biológicos, mas sua jornada toma um rumo surpreendente.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PECADOS DA MÁFIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

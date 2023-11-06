@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] F20- JOVENS E PERIGOSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae7abb546fbed3dc16e2ecf66b46cd2b9b8fc588</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qQSnU6Ggy14QX9D1zM0l3NyWXcq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>F20 – Jovens e Perigosos Torrent  – Dois jovens, um relacionamento recente, Martina e Filip querem ir à uma grandiosa festa na praia, mas para essa aventura precisam de dinheiro. Eles estão dispostos a tudo para consegui-lo. Ingenuamente não consideram as consequências, mas serão perseguidos incessantemente por elas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] RETORNO A SEUL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be3745f328c9e87a21e772d2f1712d13060526b2</link>

@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] MAIGRET E A JOVEM MORTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5389aeb9e9046446e7107d54688d75e799ed9f5e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zG17L04rdnD5PFgOEzpAViEAqX0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Comissário Maigret (Gérard Depardieu) investiga a morte de uma jovem de vestido de noite encontrada numa praça parisiense. Nada permite identificá-la, ninguém parece conhecê-la. Durante a investigação, conhece uma jovem delinquente que se assemelha estranhamente à vítima, despertando nele a memória de outro desaparecimento, mais antigo, que lhe deixou marcas profundas. Baseado no romance de Georges Simenon.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ELAS POR ELAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0306546fde2b86477b7c945ee09bc473026738f8</link>

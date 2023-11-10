@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ELAS POR ELAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0306546fde2b86477b7c945ee09bc473026738f8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iCdg0eujue8YBWc1czYwIXOiRcM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Elas Por Elas é uma antologia composta por sete contos dirigidos por mulheres, ressaltando a representação de protagonistas femininas. Filmado em diferentes partes do mundo, incluindo Itália, Índia, Japão e EUA, cada uma dessas mulheres tão diferentes enfrentam seus próprios desafios particulares com extrema determinação. Algumas das histórias inspiradoras são baseadas em eventos reais.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] F20- JOVENS E PERIGOSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

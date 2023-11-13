@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ESCALADA MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af07ae6a800f15adcce7c376cde6b6154d223825</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hny3RULLX6Vs8vZfGFSyypql1jC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem alpinista passa um verão hedonista em Chamonix, enquanto tenta conquistar o mais mortal trio de montanhas do mundo: Matterhorn, Eiger e Mont Blanc. Um sonho ousado de escalar o trio de montanhas mais desafiador do mundo logo se transforma em um pesadelo aterrorizante para um grupo de amigos quando uma tempestade mortal prende os alpinistas perto do cume e corta todas as esperanças de resgate. Com as probabilidades contra eles, os amigos são forçados a confiar uns nos outros para se salvarem por qualquer meio necessário.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MAIGRET E A JOVEM MORTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

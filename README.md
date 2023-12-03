@@ -5,11 +5,11 @@
 
 
 <item>
-<title>[COLOR silver][B] teste [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://www.4shared.com/video/99z1b_vMca/Cristiada.html</link>
-<thumbnail>https://www.4shared.com/video/99z1b_vMca/Cristiada.html</thumbnail>
+<title>[COLOR silver][B] CRISTIADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tedXuy1anekSC5sqA5o3R75IVPI.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info></info>
+<info>istiada narra a história fantástica da Guerra Cristera (1926-1929), iniciada pela tentativa do governo mexicano de suprimir a liberdade de culto. O Filme mostra a realidade desconhecida por muitos Católicos.</info>
 </item>
 
 <item>

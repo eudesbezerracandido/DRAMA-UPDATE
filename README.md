@@ -13,6 +13,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM PALMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b4ed066985f7e7d569f5a5a43f777b86bc65d4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xkmcRI2BzuWP9lltlsB4x420O8d.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Por causa de uma falta de energia, Diogo fica preso dentro do elevador do prédio onde mora quando ia sair. Depois de muito tentar ligar para portaria e para números aleatórios pelo celular e não conseguir ajuda ou resposta, se vê aceitando sua situação e se conforma em ficar preso no elevador até que descubram que está lá dentro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VOCÊ ACRÉDITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:359328E117784A944AE76C182BEB2E10C2A7E0BA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tOcgjbRymDsFXrw19X5qRup6RKn.jpg</thumbnail>

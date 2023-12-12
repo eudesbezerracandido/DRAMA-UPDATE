@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] AO CAIR DO SOL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21834f34f5a652274303c8cdee1dc25404ff269f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v0kJ3VYwhgdxUtcH0Y9VeyR3w9G.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Alice (Charlotte Gainsbourg) e Neil (Tim Roth) são dois irmãos bilionários passando as férias em Acapulco com os filhos dela. No entanto, eles recebem a ligação de que a mãe, dona dos negócios familiares, morreu. Alice entra em desespero e faz as malas para retornar à Inglaterra. Neil, por sua vez, decide que não voltará ao seu país - talvez nunca mais. Um filme de Michel Franco. Indicado ao Leão de Ouro (Melhor Filme) no Festival de Veneza 2021. Seleção também dos Festivais de Toronto, Londres, Chicago e Palm Springs.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CRISTIADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

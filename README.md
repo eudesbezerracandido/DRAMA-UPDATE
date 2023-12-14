@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] UM LUGAR PARA VOLTAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21689b29834ec81e1904e8483c22076bf4e24673</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zD46NlpUEDKwZxP9HMzuTNKVA2B.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Cole Baird tem de tudo: uma bela esposa, carreira de sucesso, casa grande, associação a clubes de campo e brinquedos caros. Por trás da fachada, no entanto, é um homem preso ao seu entorno e ficando sempre para trás na busca do sonho de sua vida. Não tendo forças o suficiente para enfrentar as expectativas de seu pai, ele deixou seu verdadeiro amor, seu melhor amigo e sua visão da vida na pequena cidade dos Estados Unidos, e partiu para uma carreira jurídica com a intenção de, um dia, voltar. Agora a estrela em ascensão nos círculos sociais de Washington e o sócio-gerente mais jovem da história de um poderoso escritório de advocacia de Washington DC, ele tem a escolha: continuar o caminho do sucesso em uma vida à qual nunca tem sossego, ou retornar à comunidade que o criou.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AO CAIR DO SOL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21834f34f5a652274303c8cdee1dc25404ff269f</link>

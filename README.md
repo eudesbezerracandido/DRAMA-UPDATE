@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O MISTÉRIO DA FLORESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:288821E592FF0210A7FB5302EEC9B97CED880700</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/59ZFASEFZWoB4QJQglVJeSwM57U.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Ao realizar um intercâmbio para a mesma floresta onde seu pai desapareceu quando ela ainda era criança, Anja descobre um perigoso segredo escondido há anos pelos moradores da cidade.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] UM LUGAR PARA VOLTAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

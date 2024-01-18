@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A FILHA DO REI DO PÂNTANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a4de48facad4dc67ae55e6bc317502abc4235a3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/rm6iGsOUe9v2I0jqHyGRUliAMJO.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Helena Petterier (Daisy Ridley) enterrou seu passado, sem revelar ao marido e filha o que enfrentou. Agora, essa história volta a lhe assombrar, quando o pai (Ben Mendelsohn) escapa da prisão e busca refúgio num pântano, onde ele manteve a filha em cativeiro. Somente Helena é capaz de encontrar o pai, iniciando a caçada para acertar as contas de uma vez por todas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A PEQUENA INDOMAVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

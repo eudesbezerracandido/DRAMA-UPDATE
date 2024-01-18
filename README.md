@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A PEQUENA INDOMAVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4efb7f7d6669fc84e3eda2c3c33aa6c4c30ad94c</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/7ImB1LyrYaHhIem3mfnmRneEySu.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> No interior da Virgínia, Estados Unidos, Jo é uma menina de dez anos que passa seus dias à beira do rio com sua melhor amiga, Selma, pescando e recolhendo sucata para sobreviver. Quando seu padrasto viciado e abusivo morre, Jo decide, acompanhada por Selma, largar o corpo, roubar o carro e partir numa viagem para o outro lado do país em busca de seu pai verdadeiro, um lendário cantor folk de Los Angeles.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B]  A VERDADE SOBRE O CASO DEVENTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e106c293243c1214cc3ea4e3b84ef625f23576f3</link>

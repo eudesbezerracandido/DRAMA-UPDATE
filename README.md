@@ -2,6 +2,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] UM PLANO POR AGUA ABAIXO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9635294e5b28e212cd643dc4cf9556fe2f7c1d9</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/gNu1KmRtg70URO0wwrKWfbGhRn4.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Beth retorna para a sua família e se reconecta com seu antigo amor em uma cidade costeira dos Estados Unidos. Os dois decidem assaltar os traficantes de drogas locais e fugir da cidade, mas o plano não sai conforme o planejado.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O MISTÉRIO DA FLORESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:288821E592FF0210A7FB5302EEC9B97CED880700</link>

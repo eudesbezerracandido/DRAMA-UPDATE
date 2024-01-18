@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B]  A VERDADE SOBRE O CASO DEVENTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e106c293243c1214cc3ea4e3b84ef625f23576f3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ttfPfgduSmQI3phKbCFLBVWr2GI.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Baseado na história real do notório Caso Deventer. Em 1999, na Holanda, o jornalista Bas Haan investiga o assassinato de uma viúva que foi morta em sua casa, e começa a suspeitar de Ernest Louwes, última pessoa a falar com a vítima. Após uma reportagem de Bas, Ernest começa a ser difamado pela mídia, que transforma a vida dele e de sua esposa em um verdadeiro pesadelo. Arrependido, Bas decide lutar contra as conspirações, a polícia, a mídia e até os juízes para descobrir a verdade, mas acaba percebendo que a imagem às vezes é mais forte do que os fatos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM PLANO POR AGUA ABAIXO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9635294e5b28e212cd643dc4cf9556fe2f7c1d9</link>

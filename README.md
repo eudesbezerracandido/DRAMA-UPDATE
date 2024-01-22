@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] MINHA SOLIDÃO TEM ASAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26791429A06BE4F668636058B7B5D6397249D9C9</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6v1U61XbrCXVF7CVAjRBTslUmaA.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Dan, um artista de rua em ascensão, garante seu sustento praticando roubos. Mas a saída de seu pai da prisão ressuscita seus demônios, forçando-o a fugir.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A FILHA DO REI DO PÂNTANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a4de48facad4dc67ae55e6bc317502abc4235a3</link>

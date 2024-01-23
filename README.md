@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] MEU PEDAÇO DE TERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efa8ca8c20a8cdaa7885a2a2fcaab2a85965c2fe</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/s3WU7sSonmAxGsEggPwuiOHRv9m.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Joan é um rabugento camponês que está cansado de ver sua propriedade sendo roubada e decide se juntar à patrulha local. Mas um terrível acidente durante uma das rondas noturnas, colocará em risco a relação que ele mantém com o seu filho.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MINHA SOLIDÃO TEM ASAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

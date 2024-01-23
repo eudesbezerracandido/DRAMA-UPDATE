@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] ORGULHO E COMPAIXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9eef45ed106c0a6a781746944033cebe49ef0f46</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/89ocpTcy0XT7kbeU7xviP7mH9Pq.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O principal objetivo na vida de Anton Abildgaard é se tornar um oficial da cavalaria. Durante o seu treinamento, ele acaba conhecendo Edith, uma bonita jovem que ficou paralisada após se envolver em um acidente. Anton fica atraído pela garota, mas ainda não sabe se o que sente é amor de verdade ou apenas compaixão.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MEU PEDAÇO DE TERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efa8ca8c20a8cdaa7885a2a2fcaab2a85965c2fe</link>

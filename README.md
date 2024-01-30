@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] OPERAÇÃO ILEGAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e444dce2ee3fff954601cc49d0075841e110111</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/njq4gvZefe4eiKSUMO2oewbJSXL.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Operação Ilegal Torrent – Madri, Espanha. Durante um procedimento de despejo, Dani, um policial, faz uma descoberta chocante.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ORGULHO E COMPAIXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9eef45ed106c0a6a781746944033cebe49ef0f46</link>

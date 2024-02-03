@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DO QUEEN MARY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f32efe37d3aaab4c3d7337a3a9e3ad018b66ab9</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/52Sd1DLBn2zlPsUB9mnvtKHgh8O.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Explora os incidentes misteriosos e violentos que ocorreram durante o cruzeiro de uma família na noite de Halloween em 1938, e como esses eventos se conectam ao destino de outra família no mesmo navio até os dias atuais.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] OPERAÇÃO ILEGAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

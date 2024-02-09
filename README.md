@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] JOGOS PSICOLÓGICOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QEZIGBY7QPDJMDITIFFMCMH6UYBVUPGV</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pDxXp6LyqN41F1U07Yw9inP3UPN.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um casal apaixonado passa um tempo longe da civilização, mas as chegadas repentinas da irmã mais nova e depois do ex-namorado da garota violam o idílio campestre.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO DO QUEEN MARY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

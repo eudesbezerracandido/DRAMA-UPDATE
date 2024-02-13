@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] HILL - AMOR PELO JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YG6KP7SVSNWLQXTZO7WXS2PO7MIAHH3W</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/xsdFM9euJikNyRPtFVO43pDpIGh.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Baseado na inspiradora história real do fenômeno do beisebol Rickey Hill. Filho de um pastor viajante (Dennis Quaid) de uma cidade pequena, Rickey mostra um talento extraordinário para o beisebol, apesar de ter crescido com uma doença degenerativa na coluna. O pai de Rickey tenta desencorajá-lo de jogar beisebol para protegê-lo de lesões e fazê-lo seguir seus passos no ministério.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JOGOS PSICOLÓGICOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QEZIGBY7QPDJMDITIFFMCMH6UYBVUPGV</link>

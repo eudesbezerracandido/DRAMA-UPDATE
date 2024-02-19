@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] PODER DO PERDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af550bfded5f51db3e1752616f591212ea119908</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ugIt9G8p2Yxon29n1ouxvhVM2h7.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Depois de ser baleado cinco vezes por uma gangue de Los Angeles, Tony morre por 30 minutos e tem uma experiência fora do corpo. Ele fala com Deus e decide perdoar.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] HILL - AMOR PELO JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YG6KP7SVSNWLQXTZO7WXS2PO7MIAHH3W</link>

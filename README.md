@@ -5,6 +5,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] DOGMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JUQWGDLU4L5EXLEPA222RUIFJFNKRUFE</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/xExDMuJHS0tqEfXGWUOR5rjP6xK.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um menino, ferido pela vida, encontra sua salvação através do amor pelos seus cães.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PODER DO PERDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af550bfded5f51db3e1752616f591212ea119908</link>

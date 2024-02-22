@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ESCURIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BNCLT5D77IJ7BUG5H5C3U2XFVXN2NFMH</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/mLEGTxNtxSUb73kArD2RggQXVTs.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Carta de uma menina do Kosovo, dedicada ao pai desaparecido, lida nas Nações Unidas, na qual ela aborda publicamente a vida difícil dos sérvios, especialmente das crianças sérvias nos enclaves.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DOGMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

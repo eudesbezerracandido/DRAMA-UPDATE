@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] PROPRIEDADE PRIVADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:880ddae028467cfa0d70a806f61331cb04b39359</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2qyX994JMYLrjsTPcig5NwcbmNh.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Kathryn, uma atriz fracassada e insatisfeita com a vida doméstica, começa a se envolver com Ben, seu novo jardineiro. À medida que ele dá a atenção que ela deseja, eles começam a se apaixonar. Mas Ben não é quem aparenta ser.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ESCURIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

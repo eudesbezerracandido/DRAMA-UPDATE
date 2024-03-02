@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] QUEM ESTÁ RINDO AGORA? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c09fcbe2c45794eb2bcf9292e9b4bc5c0cd9e552</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/jQuaXe6hR3yvhQO4SG25sXGmH4i.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Joe Johnson é um comediante que é constantemente interrompido durante uma de suas apresentações. Mas o que parecia ser apenas uma ofensa se transforma em um pesadelo quando Joe passa a ser perseguido por um misterioso homem.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PROPRIEDADE PRIVADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:880ddae028467cfa0d70a806f61331cb04b39359</link>

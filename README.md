@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ANATOMIA DE UMA QUEDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10c3cff636cc1dccdd395bbc9beff6c2113ddc60</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma mulher é suspeita do assassinato de seu marido, e seu filho cego enfrenta um dilema moral como única testemunha.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] QUEM ESTÁ RINDO AGORA? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

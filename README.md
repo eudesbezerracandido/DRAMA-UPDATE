@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] UMA PAIXÃO ARDENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcce41ffaddfe33189d8d82cce041d5a450fffa7</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/qaWpInqafTmmAIEteJ4q71hCep4.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Hope Williams, uma bem-sucedida médica de pronto-socorro, relutantemente conhece um talentoso artista em uma noite de garotas. Ele é tudo o que seus amantes anteriores não eram e desperta um lado dela que nunca soube que existia. À medida que a vida sexual de Hope esquenta, seu trabalho piora quando o marido abusivo de uma paciente espancada a culpa por suas dúvidas. Logo, a vida pessoal de Hope se confunde com sua vida profissional, e ambas estão em perigo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] INSIDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

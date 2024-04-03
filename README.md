@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] SALA DOS PROFESSORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CQJERV4XLWCXXM6VJIBCWKI3VA2U4HD</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/tqoSts6QMQsSDpeuR21OzXUZLSJ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Quando um dos seus alunos é suspeito de roubo, a professora Carla Nowak decide ir ao fundo da questão. Presa entre os seus ideais e o sistema escolar, as consequências das suas acções ameaçam quebrá-la.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O MUNDO DEPOIS DE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

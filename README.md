@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] O MUNDO DEPOIS DE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BMMLVC7MXWNP7JKIGZILR3ZD2UZ7YBU</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1YshRu5ZY2DXc90Xyo2JWKIy8Cf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>As férias de uma família numa casa de luxo ganham contornos sinistros quando um ciberataque acaba com as comunicações eletrónicas e aparecem dois estranhos à sua porta.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UMA PAIXÃO ARDENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcce41ffaddfe33189d8d82cce041d5a450fffa7</link>

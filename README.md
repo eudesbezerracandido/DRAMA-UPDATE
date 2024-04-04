@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A DANÇA DOS PASSÁROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b156c7f7bc67a6c94cb018b24ef264c9fe5c1e5a</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ufi71bkr6WNAriSM8jmJkv0M50q.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Jem Starling de 17 anos tem dificuldades em se encaixar em sua comunidade cristã tradicional, porém, tudo muda quando o jovem magnético pastor Owen retorna para sua igreja.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SALA DOS PROFESSORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CQJERV4XLWCXXM6VJIBCWKI3VA2U4HD</link>

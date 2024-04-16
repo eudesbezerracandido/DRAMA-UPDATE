@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O CAPITÃO SOVIÉTICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0c13adbcbfc0e7ddce51474a5f7248317866001</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ncVSZQn1fH0U4EB7kRzb4Pw53Mi.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O Capitão Soviético Torrent – O Capitão Fyodor Volkonogov, um respeitado agente da URSS, descobre que está sendo alvo de uma conspiração política e foge, sendo perseguido por seus ex-colegas. Vulnerável e sem esperança, Fyodor recebe uma mensagem do inferno: após a morte, ele será condenado a tormentos eternos. A única maneira de evitar isso é se arrepender e encontrar pelo menos uma pessoa que lhe conceda o perdão. Mas o tempo de Fyodor está se esgotando.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A DANÇA DOS PASSÁROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

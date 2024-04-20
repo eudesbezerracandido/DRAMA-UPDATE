@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] UM ANJO EM NOSSAS VIDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DTLEWMZ6EOP4MSPRUNYLIDVWSRA4TVND</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/mN40ZW5Fw9oMUaVfYcqcvqQ49bu.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando um criminoso insensível e doente cruza o caminho de uma menina cheia de fé, uma segunda chance surge para tocar o coração durante a temporada de festas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O CAPITÃO SOVIÉTICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0c13adbcbfc0e7ddce51474a5f7248317866001</link>

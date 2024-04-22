@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] GARRA DE FERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S7HSAMN4ESYOS3NWF3LVXJGKGHVHZSLC</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wzYxCgCsllrLwhMR4gbTk2gfFm6.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A história da ascensão e queda da família Von Erich, uma dinastia de lutadores que teve um enorme impacto no desporto desde os anos 60 até aos dias de hoje.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM ANJO EM NOSSAS VIDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DTLEWMZ6EOP4MSPRUNYLIDVWSRA4TVND</link>

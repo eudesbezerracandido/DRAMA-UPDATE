@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O GOLPE DE MILHÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db6493742cb8e75128b8252adcbf54fb63b1cf84</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/74xxiDE300e1yRZz4iDoCvR2ike.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O humilde auditor Eric Asselin recebe a missão de monitorar as atividades de uma empresa de investimentos canadense. Seduzido pelo charme e estilo de vida de Vincent Lacroix, o fundador da empresa, Eric decide ajudá-lo a aplicar um golpe para desviar milhões de dólares de pequenos investidores.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] GARRA DE FERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S7HSAMN4ESYOS3NWF3LVXJGKGHVHZSLC</link>

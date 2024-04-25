@@ -8,6 +8,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] PASSADO VIOLENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce1bfc925d2aa682c011076e20a61c14177520c8</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/4cxFO7AlQOotgA45nuuej2DMyiw.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um coletor de lixo que tenta ativamente reparar seu passado sombrio e trágico. Mas quando suas boas intenções o marcam como alvo do chefe do crime local, ele é forçado a se reconciliar com a violência de seu passado.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O GOLPE DE MILHÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db6493742cb8e75128b8252adcbf54fb63b1cf84</link>

@@ -7,7 +7,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] EU,CAPITÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LFQUI5BGWYVCNDNKT2JAYOUVO3BOKKQX</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/glY7KE3sLWrVUTKbRS9kGlnz0or.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Conta a história de dois jovens que saem do Senegal rumo à Europa; uma odisséia contemporânea pelos perigos do deserto, os perigos do mar e as ambiguidades da alma humana.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PASSADO VIOLENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

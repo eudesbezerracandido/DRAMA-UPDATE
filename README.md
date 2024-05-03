@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] EM CHAMAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81ae3c2da199099c86223bf7a90d8e12227b78a7</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/dh0xebH7dT8keNFflIdjhqeiMVY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Neste drama baseado em eventos reais, um pai de família precisa proteger sua esposa grávida e seu filho em meio a incêndios florestais devastadores. Frente ao caos, cada segundo é crucial na batalha pela sobrevivência contra a força da natureza.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] EU,CAPITÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LFQUI5BGWYVCNDNKT2JAYOUVO3BOKKQX</link>

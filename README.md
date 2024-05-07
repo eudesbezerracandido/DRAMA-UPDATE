@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] MINHA AMIGA PALMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81649af36a978ef2c04d4e7ca422532b72136ed9</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zSPMIVPsV25N2eww4AfE7JEHpOE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um pastor chamado Palma que foi inadvertidamente deixado no aeroporto por seu dono, faz amizade com Nicholas, de nove anos, cuja mãe morreu deixando-o com um pai que ele mal conhece, um piloto que encontra o cão no aeroporto.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] EM CHAMAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

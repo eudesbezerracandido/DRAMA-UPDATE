@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] O IMPOSSIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edeb8f889e3b8d172a89eeab811ecae961443198</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2TW4TqJnhpiKDrpsISUcSQAQE2m.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Maria, Henry e os seus três filhos viajam até à Tailândia para passarem as suas férias de Natal, esperando encontrar alguns dias de descanso num paraíso tropical, quando o seu mundo é, de repente, virado do avesso. Sem aviso prévio, um enorme tremor de terra no oceano despoleta um gigantesco tsunami... uma das maiores catástrofes naturais de que há registo. Esta é a sua história.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CONTRA O GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0d60c4bc8e2f05dc6fa067eddc46d1d09d1a3fc</link>

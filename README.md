@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] CONTRA O GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0d60c4bc8e2f05dc6fa067eddc46d1d09d1a3fc</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/Ak7vO8UJS32bOub3aWXCYl7YaQx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Em 1909, uma expedição dinamarquesa liderada pelo Capitão Ejnar Mikkelsen tenta contradizer a reivindicação dos Estados Unidos em relação ao território nordeste da Gronelândia, enraizada na ideia de que a a ilha estava dividida em duas partes. Deixando para trás a tripulação e o navio, Mikkelsen desliza sobre o gelo com o inexperiente Iver Iversen.Conseguem determinar que a Gronelândia é uma única ilha, mas o regresso ao barco acaba por ser mais longo e tortuoso do que esperavam. Após sobreviverem à fome extrema, à fadiga e ao ataque de um urso polar, conseguem regressar, mas encontram o navio engolido pelo gelo e o acampamento abandonado. Na esperança de serem resgatados, têm agora de se manter vivos. À medida que os dias se tornam maiores, a ligação mental à realidade começa a desaparecer e fomenta a desconfiança e a paranoia, uma perigosa combinação que ameaça a sobrevivência de</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MINHA AMIGA PALMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

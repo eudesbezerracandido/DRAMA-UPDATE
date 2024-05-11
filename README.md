@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] 99 CASAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:770CDA7DD2EEC8C449B5D6E3C045BCBB0E456740</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/35JR6OlN2VSt0hX6kvV7FH5nMmx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Dennis Nash (Andrew Garfield) perdeu a sua casa por conta da hipoteca e teve que se mudar para um pobre hotel com sua mãe (Laura Dern) e seu filho pequeno . Desesperado para reaver seu lar, ele aceita trabalhar com o imoral agente imobiliário Rick Carver (Michael Shannon), que foi a pessoa responsável pela sua perda. Logo, ele tem que ajudar Carver a expulsar outras pessoas e a desviar dinheiro do governo. Enquanto seus problemas financeiros desaparecem, a consciência de Nash passa a atormentá-lo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PULSAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

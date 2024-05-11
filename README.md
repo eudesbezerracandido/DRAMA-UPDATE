@@ -6,6 +6,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] PULSAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ab762d875b0e5178ed46c9d78e2daad5c465387</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/9CbB8MPbkybu9m3cWgbxGknJUFf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A recém-separada Leonor vem da classe abastada, enquanto a aspirante a bailarina Emilia, de dezesseis anos, não. Eles começam um tenso pas de deux esperando a gravidez de Emilia em uma casa de campo remota, isolados do mundo e uns dos outros.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O IMPOSSIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edeb8f889e3b8d172a89eeab811ecae961443198</link>

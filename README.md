@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O PODCAST  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3d70515102d392a4a4ba25c23e924f176b036ae</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/yrURBoc5zbeCuuilAJsmPcoBmqB.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma podcaster começa a investigar uma teoria de conspiração alienígena que, aos poucos, se aproxima desconfortavelmente de sua própria história.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 99 CASAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

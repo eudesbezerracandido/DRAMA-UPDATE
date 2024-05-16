@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] SUBTERRÁNEO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BHTN4NUKHSG4G7DAJ3XQSKM4ENYYQ6TN</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/dnuAR8YNBwjTAeEtM62892pHjJg.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Maxime é um mineiro com um passado turbulento. Após uma explosão em uma de suas minas, ele encontra uma maneira de se redimir ao tentar salvar a vida de seus colegas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O PODCAST  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3d70515102d392a4a4ba25c23e924f176b036ae</link>

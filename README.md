@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O MAURITANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67HPL77W2O4WUBIVWQPMTGFH2XGXP7P5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/W5Keg8TT9hYfEpIWCawh9dXjXf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma história verídica de sobrevivência que relata a luta pela liberdade de Mohamedou Ould Slahi após ser detido pelo governo dos EUA, e encarcerado, durante anos, sem julgamento, na Baía de Guantánamo. Slahi encontra os seus únicos aliados na advogada de defesa Nancy Hollander e na sua associada Teri Duncan, as quais, contra o governo dos EUA, lutam por justiça. Através da controversa defesa de Slahi, juntamente com provas descobertas por um notável procurador militar, o Tenente-Coronel Stuart Couch, descobre-se a mais chocante verdade...</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SUBTERRÁNEO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BHTN4NUKHSG4G7DAJ3XQSKM4ENYYQ6TN</link>

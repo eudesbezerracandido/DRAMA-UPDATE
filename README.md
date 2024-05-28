@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DIAMANTES DO CAÕS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df61f57109ef9a9e6bc22090e499fc0133099fda</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/sBH3IkwCCMGIWAkdQ00tOEmLPkm.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Quatro adolescentes de uma vila rural no sudoeste da Nigéria encontram por acaso uma bolsa de diamantes brutos, mas logo outros vêm em busca da recompensa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O MAURITANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67HPL77W2O4WUBIVWQPMTGFH2XGXP7P5</link>

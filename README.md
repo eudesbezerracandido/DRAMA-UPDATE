@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] TREINADO PARA MATAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38ab952e323050608c667228026a3d0a2fa24cd2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/rw5P8YqHUqi04rdKrQC2lZ5UQPK.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Desde que perdeu seu pai, Fukami foi criado por Majima, presidente de uma importante organização do Japão.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

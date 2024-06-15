@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] PURA PAIXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc6be925a426c72f10edafab1badf15441cb6a28</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1K9YQaeshrBHLSnsw0a88peolVc.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um homem e uma mulher se unem por acaso, por vários meses. Ele é mais jovem do que ela, casado, russo, oficialmente diplomata em Paris. Ela é uma linda professora e pesquisadora, com os pés firmemente no chão. O filme acompanha a evolução desse amor, do começo ao fim.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TREINADO PARA MATAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38ab952e323050608c667228026a3d0a2fa24cd2</link>

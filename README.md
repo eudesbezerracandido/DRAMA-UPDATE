@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] CONDUZINDO MADELEINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:750e9be05d8c1e03f648e19a3b9f3e9233629785</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/4PMWCeXmEYjjHgoCFwplu0Ji7v3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Madeleine, 92 anos, chama um táxi para chegar à casa de repouso onde agora deve morar. Ela pede a Charles, um motorista um pouco desiludido, que passe pelos lugares que importaram em sua vida, para vê-los uma última vez. Aos poucos, na curva das ruas de Paris, surge um passado extraordinário que perturba Charles. Há viagens de táxi que podem mudar uma vida…</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PURA PAIXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

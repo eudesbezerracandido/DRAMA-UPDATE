@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] INCÊNDIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3091CA3E150030781B1F486C2B313C77D3620CF</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/uCS7IEfBLoBBLpOdCkfpVA7xhed.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Nawal, uma mulher moribunda do Oriente Médio que vive em Montreal, deixa cartas para seus filhos gêmeos para serem lidas quando ela falecer. Jeanne deve entregar a dela para o pai que nunca conheceu e Simon deve entregar a dele para o irmão que nunca soube que tinha. Os irmãos viajam para o Oriente Médio separados e vivenciam atos de brutalidade, descobrem uma história familiar surpreendente e têm revelações sobre si mesmos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] COMO CÃES DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

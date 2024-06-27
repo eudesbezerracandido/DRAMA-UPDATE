@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] COMO CÃES DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f553f0e888465e585467bb74088f2ad09c6c7b7c</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2KmciAxeNzA5j5oMo1mx6U2PkoT.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>França, Verão de 1919. Numa pequena vila francesa, um cão ladra dia e noite junto ao portão de um quartel. Dentro, apenas um prisioneiro: Morlac, o dono do cão. Numa aldeia próxima, uma jovem mulher espera e desespera. Morlac, um herói da Primeira Guerra Mundial condecorado pela sua bravura, aguarda ser condenado pelo chefe do esquadrão Lantier du Grez, por crimes contra a pátria. Enfrenta a pena de morte. O juiz tem apenas alguns dias para encaixar todas as peças da história do condenado e anunciar a sua sentença. Três personagens e, entre eles, um cão… que guarda a chave de todo este caso misterioso.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CONDUZINDO MADELEINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:750e9be05d8c1e03f648e19a3b9f3e9233629785</link>

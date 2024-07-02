@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] OS IMPACTADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95e8b209e083ccf199374dec37d9970c6d7f3630</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/vgLAFXclHdFQKoHqZTUbmuTvYnJ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Após ser atingida por um raio, uma mulher traumatizada entra em um grupo de apoio e embarca em uma jornada que promete dor e prazer.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] INCÊNDIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3091CA3E150030781B1F486C2B313C77D3620CF</link>
